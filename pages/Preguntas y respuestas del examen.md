@@ -62,4 +62,9 @@
 - 24.  ¿Cuáles son los documentos que debe portar el conductor?
 	- **R/** Licencia de conducción y cedula **preguntar**
 - 25. Para conducir vehículos de servicio público, la edad mínima para expedir la licencia de conducción es
-	- **R/**
+	- > Cita de la bibliografía #Extractos
+	  
+	  **Autor**: Pagina autor
+		- tipo:: [[Cita]]
+		  posición:: pagina o minuto
+		  etiquetas::
