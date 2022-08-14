@@ -29,8 +29,3 @@
 	  tipo:: [[Curso]]
 	  url:: link
 	  estado:: [[Sin empezar]], [[En progreso]], [[Finalizado]]
-- 😍 Mi diario: #Diario 
-  template:: Ejemplo-Nicoll
-	- **Cosas por hacer**:
-	- **Cómo me siento**:
-	- sentimiento:: Feliz, Neutral, Triste
