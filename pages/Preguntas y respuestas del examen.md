@@ -1,6 +1,7 @@
 - 1. ¿Cuál de estas no es categoría de licencia de conducción?
 	- **R/** F2
-- 2. Según el código nacional de tránsito (**Ley 769 del 2002**) el límite de velocidad para conducir por zonas residenciales es:
+- id:: 62f92f2e-f36e-4ca4-a414-938f81cb919d
+  2. Según el código nacional de tránsito (**Ley 769 del 2002**) el límite de velocidad para conducir por zonas residenciales es:
 	- > ARTÍCULO 74. REDUCCIÓN DE VELOCIDAD. Los conductores deben reducir la velocidad a treinta (30) kilómetros por hora en los siguientes casos:  #Extracto 
 	  
 	  **Autor**: código nacional de tránsito
