@@ -71,4 +71,5 @@
 - 26. La licencia de conducción es un documento público que identifica de carácter personal e intransferible expedido por una autoridad competente.
 - 27.  En hechos ocurridos como consecuencia de un accidente de tránsito aparecen involucrados víctimas, a cuál de las siguientes autoridades corresponde conocer el siniestro
 	- Autoridades de transito y las aseguradoras
+- 28. Una función principal de la bujía es
 -
