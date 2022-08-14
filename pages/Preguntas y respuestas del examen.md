@@ -80,5 +80,5 @@
 - 31. ¿Cuál es la ley que rige el transito?
 	- **R/** Ley 769 del 2002, código de movilidad de transito.
 - 32.  ¿Qué daños cubre el soat?
-	- **R/** El soat solo cubre los daños corporales para cualquier persona
+	- **R/** El SOAT solo cubre los daños corporales para cualquier persona.
 -
