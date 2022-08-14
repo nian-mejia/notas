@@ -30,6 +30,7 @@
 	  url:: link
 	  estado:: [[Sin empezar]], [[En progreso]], [[Finalizado]]
 - 😍 Mi diario:
+  template:: Ejemplo-Nicoll
 	- **Cosas por hacer**:
 	- **Cómo me siento**:
-	- sentimiento::
+	- sentimiento:: Feliz, Neutral, Triste
