@@ -83,3 +83,4 @@
 	- **R/** El SOAT solo cubre los daños corporales para cualquier persona.
 - 33. ¿Qué es seguridad activa?
 	- **R/** Los mecanismo que ayudan a evitar un accidente. Ej: Frenos, BRAKE (freno de emergencia), control de tracción (mantiene los neumáticos sobre el suelo sin patinar)
+- 34. Es obligatorio seder el paso?
