@@ -31,4 +31,5 @@
 	  estado:: [[Sin empezar]], [[En progreso]], [[Finalizado]]
 - 😍 Mi diario:
 	- **Cosas por hacer**:
-	- Cómo me siento
+	- **Cómo me siento**:
+	- sentimiento::
