@@ -69,4 +69,4 @@
 		- tipo:: [[Cita]]
 		  posición:: Ley 769 2002
 - 26. La licencia de conducción es un documento público que identifica de carácter personal e intransferible expedido por una autoridad competente.
-- 27.
+- 27.  En hechos ocurridos como consecuencia de un accidente de tránsito aparecen involucrados víctimas, a cuál de las siguientes autoridades corresponde conocer el siniestro
