@@ -1,5 +1,6 @@
 - 📄Titulo artículo #Bibliografía
   template:: biblio-articulo
+  collapsed:: true
 	- autor:: nombre autor
 	  tipo:: [[Artículo]]
 	  url:: link
