@@ -17,6 +17,7 @@ template:: extrac-extrac
 	- **Bibliografía**: Enlace por bloque
 - Escriba aquí lo que quiera anotar con sus hijos sin ser literal #Extractos
   template:: extrac-anota
+	-
 	- tipo:: [[Anotaciones]]
 	  posición:: pagina o minuto
 	  etiquetas:: numeral etiqueta
