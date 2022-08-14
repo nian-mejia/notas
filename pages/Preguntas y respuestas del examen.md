@@ -57,5 +57,6 @@
 	- **R/** el nivel de aceite es muy bajo **preguntar**
 - 22. Dentro del sistema de lubricación ¿Qué función cumple la bomba del aceite del motor?
 	- **R/** Hace circular a presión el aceite en el interior del motor **preguntar**
-- 23.
--
+- 23. ¿Qué es la licencia de transito?
+	- La licencia de tránsito o tarjeta de propiedad registra los datos del vehículo.
+- 24.
