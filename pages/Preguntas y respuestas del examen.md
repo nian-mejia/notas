@@ -65,7 +65,7 @@
 	- > Los mismos requisitos enumerados anteriormente, a excepción de la edad mínima que será de 18 años cumplidos y de los exámenes teórico-prácticos, de aptitud física y mental o los certificados de aptitud de conducción expedidos que estarán referidos a la conducción de
 	  vehículo de servicio público  #Extractos
 	  
-	  **Autor**: código nacional de tránsito
+	  **Autor**: código nacional de tránsito ART 19
 		- tipo:: [[Cita]]
 		  posición:: Ley 769 2002
 - 26. La licencia de conducción es un documento público que identifica de carácter personal e intransferible expedido por una autoridad competente.
