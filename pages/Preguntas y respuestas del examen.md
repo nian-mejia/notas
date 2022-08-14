@@ -13,7 +13,6 @@
 		- tipo:: [[Cita]]
 		  etiquetas:: #Ley 769 del 2002
 		  id:: 6c6baa6f-95c1-4cb3-88e9-054ec01d4b1d
-	-
 - 3. ¿Cuál es la manera correcta para arrancar un vehículo de transmisión manual o mecánico?
 	- **R/** Busco el punto de contacto con el clutch y acelero progresivamente **Preguntar**
 - 4. ¿Basta solo con saber conducir un vehículo y tener licencia de conducción para andar por cualquier vía?
