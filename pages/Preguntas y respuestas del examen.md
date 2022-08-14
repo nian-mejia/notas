@@ -62,7 +62,10 @@
 - 24.  ¿Cuáles son los documentos que debe portar el conductor?
 	- **R/** Licencia de conducción y cedula **preguntar**
 - 25. Para conducir vehículos de servicio público, la edad mínima para expedir la licencia de conducción es
-	- > Cita de la bibliografía #Extractos
+	- > Los mismos requisitos enumerados anteriormente, a excepción de la edad mínima que será
+	  de 18 años cumplidos y de los exámenes teórico-prácticos, de aptitud física y mental o los
+	  certificados de aptitud de conducción expedidos que estarán referidos a la conducción de
+	  vehículo de servicio público  #Extractos
 	  
 	  **Autor**: Pagina autor
 		- tipo:: [[Cita]]
