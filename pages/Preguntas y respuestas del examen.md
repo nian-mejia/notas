@@ -59,4 +59,5 @@
 	- **R/** Hace circular a presión el aceite en el interior del motor **preguntar**
 - 23. ¿Qué es la licencia de transito?
 	- La licencia de tránsito o tarjeta de propiedad registra los datos del vehículo.
-- 24.
+- 24.  ¿Cuáles son los documentos que debe portar el conductor?
+	-
