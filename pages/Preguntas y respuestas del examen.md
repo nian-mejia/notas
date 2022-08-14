@@ -72,4 +72,5 @@
 - 27.  En hechos ocurridos como consecuencia de un accidente de tránsito aparecen involucrados víctimas, a cuál de las siguientes autoridades corresponde conocer el siniestro
 	- Autoridades de transito y las aseguradoras
 - 28. Una función principal de la bujía es
+	- Generan una chispa electrica
 -
