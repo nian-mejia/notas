@@ -29,3 +29,4 @@
 	  tipo:: [[Curso]]
 	  url:: link
 	  estado:: [[Sin empezar]], [[En progreso]], [[Finalizado]]
+-
