@@ -78,5 +78,6 @@
 - 30. ¿Cuál es la causa de más accidentes en colombia?
 	- **R/** Exceso de velocidad}
 - 31. ¿Cuál es la ley que rige el transito?
-	- **R/** Ley
+	- **R/** Ley 769 del 2002, código de movilidad de transito.
+- 32.
 -
