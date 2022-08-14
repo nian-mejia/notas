@@ -75,5 +75,8 @@
 	- Generan una chispa eléctrica para iniciar la combustión dentro del motor. Cuando se dañan tienden a consumir más combustible los automóviles.
 - 29. ¿Qué indica dos líneas amarillas continuas?
 - ![image.png](../assets/image_1660518487708_0.png)
-- 30. ¿
+- 30. ¿Cuál es la causa de más accidentes en colombia?
+	- **R/** Exceso de velocidad}
+- 31. ¿Cuál es la ley que rige el transito?
+	- **R/** Ley
 -
