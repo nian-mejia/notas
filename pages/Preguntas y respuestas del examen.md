@@ -61,3 +61,4 @@
 	- La licencia de tránsito o tarjeta de propiedad registra los datos del vehículo.
 - 24.  ¿Cuáles son los documentos que debe portar el conductor?
 	-
+-
