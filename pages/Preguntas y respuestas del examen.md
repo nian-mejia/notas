@@ -84,4 +84,4 @@
 - 33. ¿Qué es seguridad activa?
 	- **R/** Los mecanismo que ayudan a evitar un accidente. Ej: Frenos, BRAKE (freno de emergencia), control de tracción (mantiene los neumáticos sobre el suelo sin patinar)
 - 34. ¿Es obligatorio ceder el paso a los vehículos de emergencia? **R/** si
-- 35.
+- 35. ¿Qué experimenta el cuerpo después de beber? **R/** Perdida de percepción
