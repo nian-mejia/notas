@@ -81,4 +81,5 @@
 	- **R/** Ley 769 del 2002, código de movilidad de transito.
 - 32.  ¿Qué daños cubre el soat?
 	- **R/** El SOAT solo cubre los daños corporales para cualquier persona.
--
+- 33. ¿Qué es seguridad activa?
+	- **R/** Los mecanismo que ayudan a evitar un accidente. Ej: Frenos, abs
