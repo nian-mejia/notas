@@ -15,16 +15,10 @@ template:: extrac-extrac
 	  posición:: pagina o minuto
 	  etiquetas:: numeral etiqueta
 	- **Bibliografía**: Enlace por bloque
-- Escriba aquí lo que quiera anotar con sus hijos sin ser literal #Extractos
+- Escriba aquí lo que quiera anotar sobre el tema #Extractos
   template:: extrac-anota
 	-
 	- tipo:: [[Anotaciones]]
-	  posición:: pagina o minuto
-	  etiquetas:: numeral etiqueta
-	- **Bibliografía**: Enlace por bloque
-- ![Say thanks](../assets/hans-vivek-UiMkBvDQSAA-unsplash_1653331542106_0.jpg){:height 297, :width 433} #Extracto 
-  template:: extrac-imagen
-	- tipo:: [[Imagen]]
 	  posición:: pagina o minuto
 	  etiquetas:: numeral etiqueta
 	- **Bibliografía**: Enlace por bloque
