@@ -68,4 +68,4 @@
 	  **Autor**: código nacional de tránsito
 		- tipo:: [[Cita]]
 		  posición:: Ley 769 2002
--
+- 26. La licencia de conducción es un documento público que identifica de carácter personal e intransferible
