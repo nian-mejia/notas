@@ -73,4 +73,7 @@
 	- Autoridades de transito y las aseguradoras
 - 28. Una función principal de la bujía es
 	- Generan una chispa eléctrica para iniciar la combustión dentro del motor. Cuando se dañan tienden a consumir más combustible los automóviles.
+- 29. ¿Qué indica dos líneas amarillas continuas?
+- ![image.png](../assets/image_1660518487708_0.png)
+- 30. ¿
 -
