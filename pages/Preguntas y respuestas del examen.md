@@ -56,5 +56,6 @@
 	- ![image.png](../assets/image_1660498711167_0.png){:height 118, :width 275}
 	- **R/** el nivel de aceite es muy bajo **preguntar**
 - 22. Dentro del sistema de lubricación ¿Qué función cumple la bomba del aceite del motor?
-	- Hace circular a presión el
+	- **R/** Hace circular a presión el aceite en el interior del motor **preguntar**
+- 23.
 -
