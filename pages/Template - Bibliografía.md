@@ -29,4 +29,6 @@
 	  tipo:: [[Curso]]
 	  url:: link
 	  estado:: [[Sin empezar]], [[En progreso]], [[Finalizado]]
--
+- 😍 Mi diario:
+	- **Cosas por hacer**:
+	- Cómo me siento
