@@ -53,4 +53,4 @@
 	- Sistema de refrigeración obstruido **preguntar**
 	- ![image.png](../assets/image_1660497446109_0.png){:height 215, :width 272}
 - 21.  Si al ir por una curva ve que la luz del testigo le indica que la presión del aceite se ilumina de manera intermitente, entonces el conductor debe suponer que:
-	-
+	- ![image.png](../assets/image_1660498711167_0.png)
