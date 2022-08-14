@@ -60,5 +60,6 @@
 - 23. ¿Qué es la licencia de transito?
 	- La licencia de tránsito o tarjeta de propiedad registra los datos del vehículo.
 - 24.  ¿Cuáles son los documentos que debe portar el conductor?
-	-
--
+	- **R/** Licencia de conducción y cedula **preguntar**
+- 25. Para conducir vehículos de servicio público, la edad mínima para expedir la licencia de conducción es
+	- **R/**
