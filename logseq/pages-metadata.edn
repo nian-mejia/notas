@@ -9,7 +9,7 @@
   :block/updated-at 1660444684716}
  {:block/name "aug 13th, 2022",
   :block/created-at 1660425377192,
-  :block/updated-at 1660426447152}
+  :block/updated-at 1660445341128}
  {:block/name "autor",
   :block/created-at 1660444684765,
   :block/updated-at 1660444684765}
@@ -132,7 +132,7 @@
   :block/updated-at 1660444684761}
  {:block/name "template - bibliografía",
   :block/created-at 1660444684770,
-  :block/updated-at 1660444684770}
+  :block/updated-at 1660445230272}
  {:block/name "template - diario",
   :block/created-at 1660444684572,
   :block/updated-at 1660444684572}
