@@ -2,5 +2,5 @@
 	- **Por extensión**: Haciendo una lista explicita de los elementos, separados por coma y encerrados entre llaves.
 	- **Por comprensión:** Dando una serie de condiciones que deben cumplir los conjuntos.
 	- Ejemplo:
-	-
+	- $$A={x/x }$$
 -
