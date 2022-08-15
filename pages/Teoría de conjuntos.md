@@ -14,5 +14,5 @@
 	- Si A y B son conjuntos, decimos que A **es subconjunto de** B y escribimos A ⊆ B, si todo elemento de A es también elemento de B. En caso de que haya **al menos un elemento** en el conjunto A que no pertenece al conjunto B, decimos que A **no es subconjunto de** B, y escribimos A⊈B. Usando diagramas de Venn, podemos representar gráficamente los conjuntos. Por ejemplo:
 	- ![image.png](../assets/image_1660575441799_0.png)
 	- Ejemplos:
-	- Sean $$A=\{{ a,e,i,o,u}}\$$ y B={x/xB={x/x es una letra del abecedario}}. Entonces A⊆BA⊆B, pero  B⊈A
+	- Sean $$A=\{{ a,e,i,o,u }\}$$ y B=$$ \{ {x/x es una letra del abecedario}\}$$. Entonces A⊆BA⊆B, pero  B⊈A
 	  id:: 62fa5f55-1ff2-4954-b1dd-02831a0473ee
