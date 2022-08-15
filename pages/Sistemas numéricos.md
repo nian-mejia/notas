@@ -3,6 +3,8 @@
 - **Números enteros:**
 	- Están formados por los números naturales junto con los números **negativos** y el número **cero**. Se denota por Z al conjunto de los números enteros:  $\mathbb Z=\{{...,−3,−2,−1,0,1,2,3,...}\}$
 	- Para el conjunto de enteros positivos, se suele escribir $$\mathbb Z^+ = \mathbb N$$
+- **Números racionales:**
+	-
 - **Números reales:**
 	- Dada la representación decimal periódica de un número x, podemos hallar una fracción equivalente multiplicando éste por potencias adecuadas de 10, y luego restando para eliminar la parte que se repite.
 	- ![image.png](../assets/image_1660588130965_0.png)
