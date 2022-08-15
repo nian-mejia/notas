@@ -4,6 +4,8 @@
 	- **Por comprensión:** Dando una serie de condiciones que deben cumplir los conjuntos
 		- $$A=\{ {x/x \text{ es una vocal de la palabra eucalipto}} \}$$
 - Si un conjunto no tiene elementos se llama conjunto vacío y se denota así \emptyset ó  \{ \}
-- ### Conjuntos finitos e infinitos
+- #### Conjuntos finitos e infinitos
 	- Si un conjunto es vacío o su número de elementos es un número natural , se dice que el conjunto es **finito**. O si no se puede saber el numero de elementos que tiene un conjunto, se dice que es  **infinito**
 	- Sea $$ A= \{{ \frac{1}{2},\frac{1}{3},14,15,…} \} $$  A es infinito ya que no podemos asignar un número natural para su número de elementos.
+- ###
+-
