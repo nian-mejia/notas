@@ -35,4 +35,5 @@
 		- Sean A y B dos conjuntos. Definimos la diferencia de A y B, denotada A−B, como $A−B=\{{x/x∈A \text{ y } x∉B}\}$
 		- ![image.png](../assets/image_1660585871842_0.png)
 	- **Diferencia simétrica:**
+		- En teoría de conjuntos, la diferencia simétrica de dos conjuntos es una operación cuyo resultado es otro conjunto que contiene a aquellos elementos que pertenecen a uno de los conjuntos iniciales, pero no a ambos a la vez.
 		-
