@@ -29,6 +29,7 @@
 	- **Complemento:**
 		- Si U es un conjunto universal y A es un subconjunto de U, definimos el complemento de A, denotado A', como el conjunto $A'=\{{x|x ∈ U \text{ y } x∉A}\}.$
 		- ![image.png](../assets/image_1660579712001_0.png)
-		- Ejercicios
-		- ![image.png](../assets/image_1660580296576_0.png)
--
+			- Ejercicios
+			- ![image.png](../assets/image_1660580296576_0.png)
+	- **Diferencia**
+	-
