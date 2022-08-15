@@ -8,5 +8,5 @@
 	- Si un conjunto es vacío o su número de elementos es un número natural , se dice que el conjunto es **finito**. O si no se puede saber el numero de elementos que tiene un conjunto, se dice que es  **infinito**
 	- Sea $$ A= \{{ \frac{1}{2},\frac{1}{3},14,15,…} \} $$  A es infinito ya que no podemos asignar un número natural para su número de elementos.
 - #### Pertenece y no pertenece
-	- Si A es un conjunto, decimos que a **pertenece** a  **A** y escribimos a ∈ A, si a es un elemento de A. En caso contrario decimos que a **no pertenece a** A y escribimos a ∉ A. En el último ejemplo, $$\frac{1}{}2∈A12∈A y 5∉A5∉A$$
+	- Si A es un conjunto, decimos que a **pertenece** a  **A** y escribimos a ∈ A, si a es un elemento de A. En caso contrario decimos que a **no pertenece a** A y escribimos a ∉ A. En el último ejemplo, $$\frac{1}{2} \in A y  5 \notin A $$
 -
