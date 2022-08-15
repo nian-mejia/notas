@@ -16,4 +16,3 @@
 	- $$\mathbb R = \mathbb Q \cup \mathbb I$$
 	- Dada la representación decimal periódica de un número x, podemos hallar una fracción equivalente multiplicando éste por potencias adecuadas de 10, y luego restando para eliminar la parte que se repite.
 	- ![image.png](../assets/image_1660588130965_0.png)
--
