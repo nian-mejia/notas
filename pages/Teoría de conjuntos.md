@@ -21,4 +21,5 @@
 		- Sean A y B dos conjuntos. Definimos la unión de $A \cup B$, como el conjunto
 		- $$A∪B=\{ {x/x∈A ó x∈B}\} $$
 		- ![image.png](../assets/image_1660577575063_0.png){:height 386, :width 645}
-	-
+	- **Intersección:**
+		- Sean A y B dos conjuntos. Definimos la intersección de A y B, denotada A∩B, como el conjunto  A∩B={x/x∈A y x∈B}
