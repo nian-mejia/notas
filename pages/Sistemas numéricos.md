@@ -6,7 +6,7 @@
 - **Números racionales:**
 	- id:: 62fa91f8-23b8-4b77-9d5b-ac0298497a7e
 	  $$\mathbb Q = {r | r = \frac{p}{q}, p \in \mathbb Z, q \in \mathbb Z, q \neq 0}$$
-	-
+	- Los números enteros son un subconjunto de los números racionales, ya que en su oc
 - **Números reales:**
 	- Dada la representación decimal periódica de un número x, podemos hallar una fracción equivalente multiplicando éste por potencias adecuadas de 10, y luego restando para eliminar la parte que se repite.
 	- ![image.png](../assets/image_1660588130965_0.png)
