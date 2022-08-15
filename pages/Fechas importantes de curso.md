@@ -1,2 +1,2 @@
 - TODO Hacer hamburguesa
-  SCHEDULED: <2022-08-14 Sun 19:48>
+  SCHEDULED: <2022-08-21 Sun>
