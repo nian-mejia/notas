@@ -6,3 +6,4 @@
 - Si un conjunto no tiene elementos se llama conjunto vacío y se denota así \emptyset ó  \{ \}
 - ### Conjuntos finitos e infinitos
 	- Si un conjunto es vacío o su número de elementos es un número natural , se dice que el conjunto es **finito**. O si no se puede saber el numero de elementos que tiene un conjunto, se dice que es  **infinito**
+	- Sea $$ A= \{{12,13,14,15,…} \} $$. AA es infinito ya que no podemos asignar un número natural para su número de elementos.
