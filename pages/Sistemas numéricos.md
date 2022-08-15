@@ -1,2 +1,2 @@
 - **Números naturales:**
-	-
+	- Los números naturales son los números que nos permiten contar $$\mathbb N$$
