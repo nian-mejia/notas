@@ -1,2 +1,2 @@
 - **Números naturales:**
-	- Los números naturales son los números que nos permiten contar $$\mathbb N$$
+	- Los números naturales son los números que nos permiten contar, se representan con el símbolo $$\mathbb N = \{{1,2,3,4,...}\}$$
