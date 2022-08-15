@@ -33,4 +33,5 @@
 			- ![image.png](../assets/image_1660580296576_0.png)
 	- **Diferencia:**
 		- Sean A y B dos conjuntos. Definimos la diferencia de A y B, denotada A−B, como $A−B=\{{x/x∈A \text{ y } x∉B}\}$
+		- ![image.png](../assets/image_1660585871842_0.png)
 		-
