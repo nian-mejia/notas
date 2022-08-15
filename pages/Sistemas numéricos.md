@@ -3,4 +3,5 @@
 - **Números enteros:**
 	- Están formados por los números naturales junto con los números **negativos** y el número **cero**. Se denota por Z al conjunto de los números enteros:  $\mathbb Z=\{{...,−3,−2,−1,0,1,2,3,...}\}$
 	- Para el conjunto de enteros positivos, se suele escribir $$\mathbb Z^+ = \mathbb N$$
--
+- Números reales:
+	-
