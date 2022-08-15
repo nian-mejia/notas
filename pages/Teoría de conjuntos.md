@@ -40,4 +40,4 @@
 		- ![image.png](../assets/image_1660586293455_0.png)
 - **Resumen de conjuntos** ![Tema01.pdf](../assets/Tema01_1660590011568_0.pdf)
 	-
-- Taller de conjuntos ![[02.2020 - MBas] Taller 01.pdf](../assets/[02.2020_-_MBas]_Taller_01_1660590139195_0.pdf)
+- **Taller de conjuntos** ![[02.2020 - MBas] Taller 01.pdf](../assets/[02.2020_-_MBas]_Taller_01_1660590139195_0.pdf)
