@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "62fa9852-ea1b-4f88-a786-882c3e57f88c", :page 1, :position {:bounding {:x1 178.42733764648438, :y1 791.1702270507812, :x2 337.4006652832031, :y2 811.1546020507812, :width 799.9999999999999, :height 1035.2941176470586}, :rects ({:x1 178.42733764648438, :y1 791.1702270507812, :x2 337.4006652832031, :y2 811.1546020507812, :width 799.9999999999999, :height 1035.2941176470586}), :page 1}, :content {:text "decimos que a pertenece "}, :properties {:color "yellow"}}]}
