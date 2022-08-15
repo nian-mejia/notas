@@ -19,4 +19,4 @@
 - #### Operaciones entre conjuntos
 	- **Unión:**
 		- Sean A y B dos conjuntos. Definimos la unión de $A \cup B$, como el conjunto
-		- $A∪B={x/x∈A ó x∈B}$
+		- $$A∪B=\{ {x/x∈A ó x∈B}\} $$
