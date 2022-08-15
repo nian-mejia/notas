@@ -16,3 +16,5 @@
 	- Ejemplos:
 	- Sean $$A=\{{ a,e,i,o,u }\}$$ y B=$$ \{ {x/x \text{es una letra del abecedario}}\}$$. Entonces A⊆B, pero  B⊈A
 	  id:: 62fa5f55-1ff2-4954-b1dd-02831a0473ee
+- #### Operaciones entre conjuntos
+	-
