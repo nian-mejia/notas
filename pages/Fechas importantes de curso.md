@@ -1,2 +1,6 @@
 - TODO Hacer hamburguesa
   SCHEDULED: <2022-08-15 Mon 08:00>
+  :LOGBOOK:
+  CLOCK: [2022-08-14 Sun 19:56:34]--[2022-08-14 Sun 19:56:35] =>  00:00:01
+  CLOCK: [2022-08-14 Sun 19:56:42]--[2022-08-14 Sun 19:56:48] =>  00:00:06
+  :END:
