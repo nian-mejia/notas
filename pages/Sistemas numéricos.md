@@ -1,2 +1,4 @@
 - **Números naturales:**
 	- Los números naturales son los números que nos permiten contar, se representan con el símbolo $$\mathbb N = \{{1,2,3,4,...}\}$$
+- **Números enteros:**
+	- Están formados por los números naturales junto con los números **negativos** y el número **cero**
