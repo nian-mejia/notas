@@ -11,7 +11,7 @@
 	- Si A es un conjunto, decimos que a **pertenece** a  **A** y escribimos a ∈ A, si a es un elemento de A. En caso contrario decimos que a **no pertenece a** A y escribimos a ∉ A. En el último ejemplo
 	- $$\frac{1}{2} \in A \text{ y }  5 \notin A $$
 - #### Subconjuntos
-	- Si A y B son conjuntos, decimos que A **es subconjunto de** B y escribimos A ⊆ B, si todo elemento de A es también elemento de B. En caso de que haya **al menos un elemento** en el conjunto A que no pertenece al conjunto B, decimos que A **no es subconjunto de** B, y escribimos A⊈B. Usando diagramas de Venn, podemos representar gráficamente los conjuntos. Por ejemplo:
+	- Si A y B son conjuntos, decimos que A **es subconjunto de** B y escribimos A ⊆ B, si todo elemento de A es también elemento de B. En caso de que haya **al menos un elemento** en el conjunto A que no pertenece al conjunto B, decimos que A **no es subconjunto de** B, y escribimos A⊈B. Usando **diagramas de Venn**, podemos representar gráficamente los conjuntos. Por ejemplo:
 	- ![image.png](../assets/image_1660575441799_0.png)
 	- Ejemplos:
 	- Sean $$A=\{{ a,e,i,o,u }\}$$ y B=$$ \{ {x/x \text{es una letra del abecedario}}\}$$. Entonces A⊆B, pero  B⊈A
