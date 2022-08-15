@@ -26,3 +26,5 @@
 		- ![image.png](../assets/image_1660577910805_0.png){:height 480, :width 649}
 	- Ejemplos unión e intersección
 	- ![image.png](../assets/image_1660578814603_0.png)
+	- **Complemento:**
+	- Si U es un conjunto universal y A es un subconjunto de U, definimos el complemento de A, denotado A′, como el conjunto A′={x∈U/x∉A}.
