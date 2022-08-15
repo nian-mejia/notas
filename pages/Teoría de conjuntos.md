@@ -38,5 +38,3 @@
 		- En teoría de conjuntos, la diferencia simétrica de dos conjuntos es una operación cuyo resultado es otro conjunto que contiene a aquellos elementos que pertenecen a uno de los conjuntos iniciales, pero no a ambos a la vez.
 		- Sean A y B dos conjuntos. Definimos la diferencia simétrica de A y B, denotada AΔB, como $$AΔB=(A∪B)−(A∩B)$$, o equivalentemente $$AΔB=(A−B)∪(B−A)$$.
 		- ![image.png](../assets/image_1660586293455_0.png)
-		-
--
