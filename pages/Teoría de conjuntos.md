@@ -29,7 +29,7 @@
 	- **Complemento:**
 		- Si U es un conjunto universal y A es un subconjunto de U, definimos el complemento de A, denotado A', como el conjunto $A'=\{{x|x ∈ U \text{ y } x∉A}\}.$
 		- ![image.png](../assets/image_1660579712001_0.png)
-			- Ejercicios
+			- **Ejercicios ley de morgan**
 			- ![image.png](../assets/image_1660580296576_0.png)
 	- **Diferencia:**
 		- Sean A y B dos conjuntos. Definimos la diferencia de A y B, denotada A−B, como $A−B=\{{x/x∈A \text{ y } x∉B}\}$
