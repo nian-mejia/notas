@@ -1,1 +1,2 @@
-- Un conjunto es una colección de objetos, llamados **elementos del conjunto**
+- Un conjunto es una colección de objetos, llamados **elementos del conjunto**, se puede describir como:
+	- **Por extensión**:
