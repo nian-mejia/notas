@@ -1,6 +1,6 @@
 - Un conjunto es una colección de objetos, llamados **elementos del conjunto**, se puede describir como:
 	- **Por extensión**: Haciendo una lista explicita de los elementos, separados por coma y encerrados entre llaves.
-	- $$A={a,e,i,o,u}A={a,e,i,o,u}.$$
+		- $$A={a,e,i,o,u}$$
 	- **Por comprensión:** Dando una serie de condiciones que deben cumplir los conjuntos
-		- $$A={x/x \text{ es una vocal de la palabra eucalipto}}$$
+		- $$A={{x/x \text{ es una vocal de la palabra eucalipto}}$$
 -
