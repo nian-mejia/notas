@@ -3,4 +3,5 @@
 		- $$A=\{{a,e,i,o,u}\}$$
 	- **Por comprensión:** Dando una serie de condiciones que deben cumplir los conjuntos
 		- $$A=\{ {x/x \text{ es una vocal de la palabra eucalipto}} \}$$
-- Si un conjunto no tiene elementos se llama conjunto vacío y se denota así **\emptyset ó  \{ \}
+- Si un conjunto no tiene elementos se llama conjunto vacío y se denota así \emptyset ó  \{ \}
+-
