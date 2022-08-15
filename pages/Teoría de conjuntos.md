@@ -10,4 +10,6 @@
 - #### Pertenece y no pertenece
 	- Si A es un conjunto, decimos que a **pertenece** a  **A** y escribimos a ∈ A, si a es un elemento de A. En caso contrario decimos que a **no pertenece a** A y escribimos a ∉ A. En el último ejemplo
 	- $$\frac{1}{2} \in A \text{ y }  5 \notin A $$
+- #### Subconjuntos
+	-
 -
