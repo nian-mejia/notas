@@ -24,3 +24,5 @@
 	- **Intersección:**
 		- Sean A y B dos conjuntos. Definimos la intersección de A y B, denotada A∩B, como el conjunto  $A∩B={x/x∈ A \text{ y } x∈B}$
 		- ![image.png](../assets/image_1660577910805_0.png){:height 480, :width 649}
+	- Ejemplos
+	- ![image.png](../assets/image_1660578814603_0.png)
