@@ -1,3 +1,5 @@
 - Un conjunto es una colección de objetos, llamados **elementos del conjunto**, se puede describir como:
 	- **Por extensión**: Haciendo una lista explicita de los elementos, separados por coma y encerrados entre llaves.
 	- **Por comprensión:** Dando una serie de condiciones que deben cumplir los conjuntos.
+	-
+-
