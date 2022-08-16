@@ -18,4 +18,4 @@
 	- Dada la representación decimal periódica de un número x, podemos hallar una fracción equivalente multiplicando éste por potencias adecuadas de 10, y luego restando para eliminar la parte que se repite.
 	- ![image.png](../assets/image_1660588130965_0.png)
 - Operaciones con ((62fa8f99-b91f-437b-8ef1-15ef78ad8ec1))
-	-
+	- En los números reales se definen dos operaciones: suma o adición y  producto o multiplicación
