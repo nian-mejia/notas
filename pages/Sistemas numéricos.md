@@ -35,4 +35,6 @@
 	- $1 \isin \mathbb R$  es tal que ∀ a ∈ R, a⋅1=a. A 1 se le llama el **elemento neutro para el producto**
 	- Si $a \isin \mathbb R, a≠0,∃(\frac{1}{a})\isin \mathbb R, \text{ tal que } a.\frac{1}{a}=1.$ Al número $\frac{1}{a}$ se le llama el **inverso multiplicativo ó recı́proco de a**, y también se denota por $a^-1$.
 - Utilizando propiedades escriba las siguientes expresiones sin usar paréntesis:
-	-
+	- $$\begin{equation}
+	  −(−x+y) = \\
+	  \end{equation}$$
