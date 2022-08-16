@@ -19,3 +19,5 @@
 	- ![image.png](../assets/image_1660588130965_0.png)
 - Operaciones con ((62fa8f99-b91f-437b-8ef1-15ef78ad8ec1))
 	- En los números reales se definen dos operaciones: suma o adición y  producto o multiplicación
+	- ![image.png](../assets/image_1660608109892_0.png)
+	-
