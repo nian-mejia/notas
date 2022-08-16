@@ -20,4 +20,6 @@
 - Operaciones con ((62fa8f99-b91f-437b-8ef1-15ef78ad8ec1))
 	- En los números reales se definen dos operaciones: suma o adición y  producto o multiplicación
 	- ![image.png](../assets/image_1660608109892_0.png)
-	-
+	- Usando la propiedad distributiva del producto con respecto a la suma, tenemos que:
+		- $$(a+b)(a+b)$$
+		-
