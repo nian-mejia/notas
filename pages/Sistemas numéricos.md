@@ -21,5 +21,9 @@
 	- En los números reales se definen dos operaciones: suma o adición y  producto o multiplicación
 	- ![image.png](../assets/image_1660608109892_0.png){:height 102, :width 592}
 	- Usando la propiedad distributiva del producto con respecto a la suma, tenemos que:
-		- $$(a+b)(a+b) = $$
+		- $`\begin{equation}` 
+		   `\begin{split}`     `a &=b+c\\` 
+		         `&=e+f` 
+		   `\end{split}` 
+		   `\end{equation}`
 		-
