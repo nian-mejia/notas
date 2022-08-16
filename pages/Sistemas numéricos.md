@@ -19,6 +19,7 @@
 	- ![image.png](../assets/image_1660588130965_0.png)
 - Operaciones con ((62fa8f99-b91f-437b-8ef1-15ef78ad8ec1))
 	- En los números reales se definen dos operaciones: suma o adición y  producto o multiplicación
+- #### Propiedades de los números reales
 	- ![image.png](../assets/image_1660608109892_0.png){:height 102, :width 592}
 	- Usando la propiedad distributiva del producto con respecto a la suma, tenemos que:
 		- $$\begin{equation}
@@ -29,4 +30,4 @@
 		  \end{split}
 		  \end{equation}$$
 		-
--
+	-
