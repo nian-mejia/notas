@@ -40,3 +40,6 @@
 	  x - y \\
 	  \end{split}
 	  \end{equation}$$
+	- $$-(x-y+z)=\\
+	  -x+y-z
+	  $$
