@@ -23,7 +23,8 @@
 	- Usando la propiedad distributiva del producto con respecto a la suma, tenemos que:
 		- $$\begin{equation}
 		  \begin{split}   (a+b)(a+b) = \\
-		  \begin{split}  (a+b)a+(a+b)b \\
-		  \end{split}
+		  (a+b)a+(a+b)b = \\
+		  aa+ab+ab+bb  = \\
+		  end{split}
 		  \end{equation}$$
 		-
