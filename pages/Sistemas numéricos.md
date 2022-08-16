@@ -33,4 +33,4 @@
 	- $0 \isin \mathbb R$ , es tal que ∀a ∈ R ((62fae441-adb0-4b85-a0b6-46262099f10e)) , a+0=a. Al **número 0** se le llama el **elemento neutro para la suma**
 	- Si $a \isin \mathbb R,∃ (−a) \isin \mathbb R$, tal que $a+(−a)=0$. Al número −a se le llama el **inverso aditivo** de a. ((62fae44b-38fb-4ec3-8478-024f963f2e95))
 	- $1 \isin \mathbb R$  es tal que ∀ a ∈ R, a⋅1=a. A 1 se le llama el **elemento neutro para el producto**
-	- Si $a \isin \mathbb R, a≠0,∃(\frac{1}{a})\isin \mathbb R, \text{ tal que a⋅1a=1.$ Al número 1a se le llama el inverso multiplicativo ó recı́proco de a, y también se denota por a−1.
+	- Si $a \isin \mathbb R, a≠0,∃(\frac{1}{a})\isin \mathbb R, \text{ tal que } a.\frac{1}{a}=1.$ Al número $\frac{1}{a}$ se le llama el inverso multiplicativo ó recı́proco de a, y también se denota por a−1.
