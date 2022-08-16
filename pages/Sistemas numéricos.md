@@ -31,5 +31,6 @@
 		  \end{equation}$$
 		-
 	- $0 \isin \mathbb R$ , es tal que ∀a ∈ R ((62fae441-adb0-4b85-a0b6-46262099f10e)) , a+0=a. Al **número 0** se le llama el **elemento neutro para la suma**
-	- Si $a \isin \mathbb R,∃ (−a) \isin \mathbb R$, tal que $a+(−a)=0. Al número −a se le llama el inverso aditivo de a.
+	- Si $a \isin \mathbb R,∃ (−a) \isin \mathbb R$, tal que $a+(−a)=0$. Al número −a se le llama el **inverso aditivo** de a.
+	- $1 \isin \mathbb R$  es tal que ∀ a∈R, a⋅1=a. A 1 se le llama el elemento neutro para el producto
 -
