@@ -30,6 +30,6 @@
 		  \end{split}
 		  \end{equation}$$
 		-
-	- 0∈R , es tal que ∀a ∈ R ((62fae441-adb0-4b85-a0b6-46262099f10e)) , a+0=a. Al **número 0** se le llama el **elemento neutro para la suma**
+	- $0 ∈ \mathbb R$ , es tal que ∀a ∈ R ((62fae441-adb0-4b85-a0b6-46262099f10e)) , a+0=a. Al **número 0** se le llama el **elemento neutro para la suma**
 	-
 -
