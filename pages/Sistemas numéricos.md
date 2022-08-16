@@ -21,5 +21,5 @@
 	- En los números reales se definen dos operaciones: suma o adición y  producto o multiplicación
 	- ![image.png](../assets/image_1660608109892_0.png)
 	- Usando la propiedad distributiva del producto con respecto a la suma, tenemos que:
-		- $$asing(a+b)(a+b) = $$
+		- $$\begin{aligned}asing(a+b)(a+b) =}$$
 		-
