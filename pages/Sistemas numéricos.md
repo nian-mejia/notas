@@ -31,5 +31,5 @@
 		  \end{equation}$$
 		-
 	- $0 ∈ \mathbb R$ , es tal que ∀a ∈ R ((62fae441-adb0-4b85-a0b6-46262099f10e)) , a+0=a. Al **número 0** se le llama el **elemento neutro para la suma**
-	-
+	- Si a∈R,∃a∈R,∃ (−a)∈R(−a)∈R, tal que a+(−a)=0a+(−a)=0. Al número −a−a se le llama el **inverso aditivo** de** **aa**.**
 -
