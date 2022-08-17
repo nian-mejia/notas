@@ -1,0 +1,8 @@
+- $$a, b, c, d \isin \mathbb Z$$
+- ### Suma de fracciones
+	- **Mismo denominador**:
+		- $$\frac{a}{c}+\frac{b}{c} = \frac{a + b}{c}, c ≠0$$
+		- Para la suma con el mismo denominador solo es necesario sumar los numeradores.
+	- **Con distinto numerador:**
+		-
+-
