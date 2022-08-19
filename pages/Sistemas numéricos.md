@@ -43,3 +43,16 @@
 	- $$-(x-y+z)=\\
 	  -x+y-z
 	  $$
+- **Caracterización y propiedades de algunos números enteros**
+	- Un número $a$ es par si se puede escribir de la forma $$a = 2k | k \isin \mathbb Z$$
+	- Un número impar se puede escribir de la forma $$a = 2k + 1 | k \isin \mathbb Z$$
+	- Decimos que 𝑑 es el **Máximo Común Divisor** de los enteros 𝑎 y 𝑏, con 𝑎≠0 ó 𝑏≠0, si 𝑑 es el mayor número entero positivo que los divide a ambos, es decir, 𝑑 es el mayor de los divisores comunes de 𝑎 y 𝑏.
+	- Decimos que 𝑚 es el **Mínimo Común Múltiplo** de los enteros 𝑎 y 𝑏, con 𝑎≠0 y 𝑏≠0, si 𝑚 es el menor número entero positivo que es múltiplo de ambos, es decir, 𝑚 es el menor entero positivo que es divisible por 𝑎 y por 𝑏
+	- Dos números enteros 𝑎,𝑏 son primos relativos si el máximo común divisor de $$\text{𝑎 y 𝑏 es 1}$$. Por ejemplo: 7 y 18 son primos relativos
+	- Un número racional $$\frac{a}{b}$$ está en forma **reducida, o “simplificado”** si $$\text{𝑎 y 𝑏}$$ son primos relativos
+		- $$\frac{18}{8}=\frac{9}{4}$$
+	- Un entero positivo $𝑝≠1$ es un número primo si sus únicos divisores positivos son $1\text{ y 𝑝}$
+	- Si $𝑎∈ℤ, 𝑎>1$, y **𝑎 no es primo**, decimos que 𝑎 es número **compuesto**
+- #### Teorema fundamental de la aritmética
+	- En matemática, y particularmente en la teoría de números, el teorema fundamental de la Aritmética o **teorema de factorización única** afirma que todo entero positivo mayor que 1 es un número primo o bien un único producto de números primos. Por ejemplo,
+		- $$6936 = 2^3 * 3* 17^2$$
