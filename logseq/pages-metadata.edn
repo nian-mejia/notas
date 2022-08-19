@@ -4,9 +4,6 @@
  {:block/name "anotaciones",
   :block/created-at 1660444684381,
   :block/updated-at 1660444684381}
- {:block/name "articulo",
-  :block/created-at 1660497486255,
-  :block/updated-at 1660497486255}
  {:block/name "artículo",
   :block/created-at 1660444684716,
   :block/updated-at 1660444684716}
@@ -16,6 +13,12 @@
  {:block/name "aug 14th, 2022",
   :block/created-at 1660487006084,
   :block/updated-at 1660497599222}
+ {:block/name "aug 15th, 2022",
+  :block/created-at 1660620888536,
+  :block/updated-at 1660620935621}
+ {:block/name "aug 16th, 2022",
+  :block/created-at 1660652817152,
+  :block/updated-at 1660652817152}
  {:block/name "autor",
   :block/created-at 1660444684765,
   :block/updated-at 1660444684765}
@@ -40,6 +43,9 @@
  {:block/name "cita",
   :block/created-at 1660444684375,
   :block/updated-at 1660444684375}
+ {:block/name "conjuntos",
+  :block/created-at 1660620888434,
+  :block/updated-at 1660620888434}
  {:block/name "contents",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
@@ -85,18 +91,27 @@
  {:block/name "extractos",
   :block/created-at 1660444684380,
   :block/updated-at 1660444684380}
+ {:block/name "extractos*",
+  :block/created-at 1660620888402,
+  :block/updated-at 1660620888402}
  {:block/name "favorites",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
  {:block/name "feliz",
   :block/created-at 1660444684565,
   :block/updated-at 1660444684565}
+ {:block/name "file",
+  :block/created-at 1660620892494,
+  :block/updated-at 1660620892494}
+ {:block/name "file-path",
+  :block/created-at 1660620892487,
+  :block/updated-at 1660620892487}
  {:block/name "finalizado",
   :block/created-at 1660444684764,
   :block/updated-at 1660444684764}
- {:block/name "imagen",
-  :block/created-at 1660444684388,
-  :block/updated-at 1660444684388}
+ {:block/name "hls__tema01_1660590011568_0",
+  :block/created-at 1660620892471,
+  :block/updated-at 1660620892471}
  {:block/name "in-progress",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
@@ -112,6 +127,9 @@
  {:block/name "licencia",
   :block/created-at 1660488777065,
   :block/updated-at 1660488777065}
+ {:block/name "matemáticas básicas",
+  :block/created-at 1660620888484,
+  :block/updated-at 1660620888484}
  {:block/name "minuto",
   :block/created-at 1660444684365,
   :block/updated-at 1660444684365}
@@ -148,6 +166,9 @@
  {:block/name "sin empezar",
   :block/created-at 1660444684761,
   :block/updated-at 1660444684761}
+ {:block/name "sistemas numéricos",
+  :block/created-at 1660620888492,
+  :block/updated-at 1660621002546}
  {:block/name "template - bibliografía",
   :block/created-at 1660444684770,
   :block/updated-at 1660445230272}
@@ -160,6 +181,9 @@
  {:block/name "template - pines",
   :block/created-at 1660444684064,
   :block/updated-at 1660444684064}
+ {:block/name "teoría de conjuntos",
+  :block/created-at 1660620888410,
+  :block/updated-at 1660620888410}
  {:block/name "tipo",
   :block/created-at 1660444684413,
   :block/updated-at 1660444684413}
