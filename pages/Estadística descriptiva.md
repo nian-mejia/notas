@@ -5,4 +5,4 @@
 	  estado::  [[En progreso]]
 - #### ¿Por qué estudiar Estadística?
 	- Aprender las reglas y métodos usados en el tratamiento de información.
-	-
+	- Entender mejor algunos fenómenos de interes
