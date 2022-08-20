@@ -1,0 +1,1 @@
+- La distancia entre a y b, denotada por $d(a, b)$
