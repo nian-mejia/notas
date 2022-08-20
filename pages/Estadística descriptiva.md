@@ -7,3 +7,4 @@
 	- Aprender las reglas y métodos usados en el tratamiento de información.
 	- Entender mejor algunos fenómenos de interés (social, económico, educativos etc)
 	- Evaluar y cuantificar la importancia de los resultados estadísticos
+	- Dar un visión más clara acerca de la información proveniente de diversas fuentes
