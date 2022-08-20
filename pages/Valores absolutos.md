@@ -12,4 +12,5 @@
 	- $|ab|=|a||b|$
 	- $|\frac{a}{b}| = \frac{|a|}{|b|}$, con $$b \neq 0$$
 	- $|a+b|≤|a|+|b|$. La igualdad se cumple cuando a y b tienen el mismo signo.
+- En general, si a y b son números reales, no importa el orden en que se pongan los números:
 - $|b−a|=−(b−a)=a−b$
