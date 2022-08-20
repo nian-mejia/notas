@@ -8,4 +8,6 @@
 	- Entender mejor algunos fenómenos de interés (social, económico, educativos etc)
 	- Evaluar y cuantificar la importancia de los resultados estadísticos
 	- Dar un visión más clara acerca de la información proveniente de diversas fuentes
-- La estadística se ocupa del manejo de la información que puede ser cuantificada.
+- La estadística se ocupa del manejo de la información que puede ser cuantificada. Esto implica:
+	- Descripción de conjunto de datos (análisis exploratorio)
+	- La
