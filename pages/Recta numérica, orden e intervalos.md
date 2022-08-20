@@ -12,5 +12,33 @@
 - #### Algunas propiedades del orden
 	- Si $𝑎∈ℝ$, entonces $a^2 =a⋅a⩾0$ y $a^2=0, a = 0$
 	- Sean $a, b, c, \isin \mathbb R$:
-		-
+		- Si 𝑎≤𝑏 y 𝑏≤𝑐, entonces 𝑎≤𝑐.
+		- Todo número real debe cumplir una de estas:
+			- 𝑎=𝑏  ó 𝑎<𝑏 ó 𝑏<𝑎
+		- 𝑎≤𝑏  si y sólo si 𝑎+𝑐≤𝑏+𝑐
+		- Si 𝑎≤𝑏 y 𝑐>0, entonces 𝑎𝑐≤𝑏𝑐
+		- Si 𝑎≤𝑏 y 𝑐<0, entonces 𝑎𝑐≥𝑏𝑐
+		- Si 𝑎>0, 𝑏>0 y 𝑎≥𝑏, entonces $\frac{1}{a}≤\frac{1}{b}$.
+- ## Intervalos
+	- Un **intervalo** es un subconjunto de $$\mathbb R$$ con ciertas características.
+	- $$a \text{ y } b \isin \mathbb R, a < b$$
+	- **Tipos de intervalos**
+		- **Abiertos**
+			- Es denotado por $(a, b)$, es un conjunto de los números reales mayores que a y menos que b.
+			- $$c \isin (a, b), a < c \wedge c < b$$
+			- Al combinar la expresión $$a < c < b$$}
+			- En los intervalos abiertos ni a ni b, pertenecen al intervalo
+			- $$ a \notin (a, b), b \notin (a, b)$$
+			- Termino de desigualdades
+			- $$(𝑎,𝑏)={𝑥∈ℝ/𝑎<𝑥<𝑏}$$
+			- ![image.png](../assets/image_1661000876052_0.png)
+		- **Cerrado**
+			- Es denotado por [a, b], al conjunto de reales mayores o iguales a y menores o iguales que b. Es decir, que el intervalo incluye tanto a ha como a b.
+			- $$ a \isin [a, b], b \isin [a, b]$$
+			- Termino de desigualdades
+			- $$[𝑎,𝑏]={𝑥∈ℝ/𝑎≤𝑥≤𝑏}$$
+			- ![image.png](../assets/image_1661000890287_0.png)
+	- Ejemplos de intervalos
+		- ![image.png](../assets/image_1661000965503_0.png)
+	-
 -
