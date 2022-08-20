@@ -12,3 +12,4 @@
 	- $|ab|=|a||b|$
 	- $|\frac{a}{b}| = \frac{|a|}{|b|}$, con $$b \neq 0$$
 	- $|a+b|≤|a|+|b|$. La igualdad se cumple cuando a y b tienen el mismo signo.
+- $|b−a|=−(b−a)=a−b$
