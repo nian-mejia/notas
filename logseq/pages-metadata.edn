@@ -16,9 +16,18 @@
  {:block/name "aug 15th, 2022",
   :block/created-at 1660620888536,
   :block/updated-at 1660620935621}
- {:block/name "aug 16th, 2022",
-  :block/created-at 1660652817152,
-  :block/updated-at 1660652817152}
+ {:block/name "aug 17th, 2022",
+  :block/created-at 1661014718477,
+  :block/updated-at 1661014718477}
+ {:block/name "aug 18th, 2022",
+  :block/created-at 1661014718401,
+  :block/updated-at 1661014718401}
+ {:block/name "aug 19th, 2022",
+  :block/created-at 1661015102197,
+  :block/updated-at 1661015102197}
+ {:block/name "aug 20th, 2022",
+  :block/created-at 1661014718309,
+  :block/updated-at 1661014718309}
  {:block/name "autor",
   :block/created-at 1660444684765,
   :block/updated-at 1660444684765}
@@ -109,12 +118,21 @@
  {:block/name "finalizado",
   :block/created-at 1660444684764,
   :block/updated-at 1660444684764}
+ {:block/name "fracciones",
+  :block/created-at 1661014718474,
+  :block/updated-at 1661014718474}
  {:block/name "hls__tema01_1660590011568_0",
   :block/created-at 1660620892471,
   :block/updated-at 1660620892471}
+ {:block/name "ide",
+  :block/created-at 1661014718391,
+  :block/updated-at 1661014718391}
  {:block/name "in-progress",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
+ {:block/name "intervalos",
+  :block/created-at 1661015102184,
+  :block/updated-at 1661015102184}
  {:block/name "later",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
@@ -142,6 +160,15 @@
  {:block/name "numero video",
   :block/created-at 1660444684366,
   :block/updated-at 1660444684366}
+ {:block/name "numeros enteros",
+  :block/created-at 1661014718464,
+  :block/updated-at 1661014718464}
+ {:block/name "operaciones de fracciones",
+  :block/created-at 1661014718467,
+  :block/updated-at 1661014718467}
+ {:block/name "orden",
+  :block/created-at 1661015102183,
+  :block/updated-at 1661015102183}
  {:block/name "pagina",
   :block/created-at 1660444684364,
   :block/updated-at 1660444684364}
@@ -157,6 +184,12 @@
  {:block/name "preguntas y respuestas del examen",
   :block/created-at 1660497599221,
   :block/updated-at 1660497680060}
+ {:block/name "recta numérica",
+  :block/created-at 1661015102182,
+  :block/updated-at 1661015102182}
+ {:block/name "recta numérica, orden e intervalos",
+  :block/created-at 1661015102181,
+  :block/updated-at 1661015102181}
  {:block/name "referencia",
   :block/created-at 1660444684397,
   :block/updated-at 1660444684397}
