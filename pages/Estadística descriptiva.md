@@ -3,4 +3,6 @@
 	- autor:: Curso de manejo de datos
 	  tipo:: [[Libro]]
 	  estado::  [[En progreso]]
-- #### Por
+- #### ¿Por qué estudiar Estadística?
+	- Aprender las reglas y métodos usados en el tratamiento de información.
+	-
