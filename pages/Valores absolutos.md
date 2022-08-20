@@ -6,5 +6,7 @@
 - ### Propiedades del valor absolutos
 - Si $a, b \isin \mathbb R$
 	- $|a| \geq 0$
-	- |a| = |-a|
+	- $|a| = |-a|$
+	- $−|a|≤a≤|a|$
+	  id:: 6301213e-ca8b-4302-9fff-60c70a6167aa
 	-
