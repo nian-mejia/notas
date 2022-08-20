@@ -6,4 +6,4 @@
 - #### ¿Por qué estudiar Estadística?
 	- Aprender las reglas y métodos usados en el tratamiento de información.
 	- Entender mejor algunos fenómenos de interés (social, económico, educativos etc)
-	-
+	- Evaluar y cuantificar la importancia de los resultados estadísticos
