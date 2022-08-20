@@ -1,2 +1,4 @@
 - La distancia entre a y b, denotada por $d(a, b)$, es la medida del segmento que los une en la recta real.
-- si a = b, entonces $$d(a, b)$$
+- si a = b, entonces $$d(a, b) = 0$$
+- $d(a,b) = d(b, a)$
+-
