@@ -11,5 +11,5 @@
 - La estadística se ocupa del manejo de la información que puede ser cuantificada. Esto implica:
 	- Descripción de conjunto de datos (análisis exploratorio)
 	- Inferencia (verificación de hipótesis)
-- El curso siguiente es
+- El curso siguiente es Estadistica descriptiva
 - [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
