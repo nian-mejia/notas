@@ -10,5 +10,5 @@
 	- $−|a|≤a≤|a|$
 	  id:: 6301213e-ca8b-4302-9fff-60c70a6167aa
 	- $|ab|=|a||b|$
-	- $|\frac{a}{b}| = \frac{|a|}{|b|}$, con $$b \neq $$
--
+	- $|\frac{a}{b}| = \frac{|a|}{|b|}$, con $$b \neq 0$$
+	- $|a+b|≤|a|+|b|$. La igualdad se cumple cuando a y b tienen el mismo signo.
