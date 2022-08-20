@@ -12,3 +12,4 @@
 	- Descripción de conjunto de datos (análisis exploratorio)
 	- Inferencia (verificación de hipótesis)
 - El curso siguiente es
+- [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
