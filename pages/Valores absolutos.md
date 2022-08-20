@@ -5,5 +5,6 @@
 - ![image.png](../assets/image_1661018054552_0.png)
 - ### Propiedades del valor absolutos
 - Si $a, b \isin \mathbb R$
-	- $$|a| \geq 0$$
+	- $|a| \geq 0$
+	- |a| = |-a|
 	-
