@@ -4,6 +4,6 @@
 - El valor absoluto de un número a, es denotado por $$|a|$$ y es la distancia desde a hasta 0, es decir $$|a| = d(a, 0)$$
 - ![image.png](../assets/image_1661018054552_0.png)
 - ### Propiedades del valor absolutos
-	- Si $a, b \isin \mathbb R$
-	-
+- Si $a, b \isin \mathbb R$
+	- $$|a| \geq 0$$
 	-
