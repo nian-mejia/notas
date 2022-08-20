@@ -2,4 +2,5 @@
 - si a = b, entonces $$d(a, b) = 0$$
 - $d(a,b) = d(b, a)$
 - El valor absoluto de un número a, es denotado por $$|a|$$ y es la distancia desde a hasta 0, es decir $$|a| = d(a, 0)$$
+- ![image.png](../assets/image_1661018054552_0.png)
 -
