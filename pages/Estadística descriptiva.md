@@ -20,7 +20,8 @@
 	- **Comparar**
 	- **Relacionar**
 		- Verificar si un dato depende de otro.
-	-
+	- Proyectar
+		-
 	-
 -
 - [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
