@@ -45,4 +45,4 @@
 - **Estadística Descriptiva**:
 	- Es todo el análisis exploratorio a nivel numérico y gráfico. Es la etapa más importante, porque permite conocer las características de los datos y la relación con el fenómeno de interes.
 - **Estimación puntal**
-	- Métodos para poder calcular un ==aproximado de un parámetro== de la población, **ej** ver la media de la
+	- Métodos para poder calcular un ==aproximado de un parámetro== de la población, **ej** ver la media de la edad de la población, ==si cuento con todos los datos== este sería una estimación puntual
