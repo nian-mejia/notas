@@ -10,11 +10,11 @@
 	- Dar un visión más clara acerca de la información proveniente de diversas fuentes
 - La estadística se ocupa del manejo de la información que puede ser cuantificada. Esto implica:
 	- Descripción de conjunto de datos (análisis exploratorio)
-	- Inferencia (verificación de hipótesis) a partir de la información recolectada
+	- Inferencia ==(verificación de hipótesis)== a partir de la información recolectada
 - La estadística abarca:
-	- Resumir:
+	- **Resumir**:
 		-
-	- Simplificar:
+	- **Simplificar**:
 		- Es mostrar la información de manera diferente que se más fácil de entender.
 -
 - [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
