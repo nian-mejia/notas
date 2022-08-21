@@ -1,6 +1,7 @@
 - 📖Estadística parte 1  #Bibliografía
 	- ![Parte I.pdf](../assets/Parte_I_1661036792883_0.pdf)
 	- ((630254d0-c474-45c3-916c-3a7e7d828833))
+	- ((63025528-ea25-46b7-b893-f7c7358144cb))
 	- autor:: Curso de manejo de datos
 	  tipo:: [[Libro]]
 	  estado::  [[En progreso]]
