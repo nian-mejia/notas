@@ -29,7 +29,7 @@
 	-
 - #### Tareas en un estudio estadístico
 	- Delimitar la población de referencia o el conjunto de datos en estudio, las unidades que deben ser observadas, las características o variables que serán medidas u observadas
-	-
+		- La población de la encuesta debe representar a todos, no se puede generalizar con las personas que participaron en la encuesta.
 	- Estrategias de Observación: Censo, Muestreo, Diseño de Experimentos.
 	- Recolección y registro de información.
 	- Depuración de la información.
