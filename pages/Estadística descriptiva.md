@@ -2,6 +2,7 @@
 	- ![Parte I.pdf](../assets/Parte_I_1661036792883_0.pdf)
 	- ((630254d0-c474-45c3-916c-3a7e7d828833))
 	- ((63025528-ea25-46b7-b893-f7c7358144cb))
+	- ((6302596f-9c7d-4e5c-aa80-fa95ea74389f))
 	- autor:: Curso de manejo de datos
 	  tipo:: [[Libro]]
 	  estado::  [[En progreso]]
