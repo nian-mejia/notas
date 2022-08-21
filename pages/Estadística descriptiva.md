@@ -30,4 +30,5 @@
 	- **Proyectar**
 		- Con lo que conozco del negocio, ¿Cómo me puedo adelantar hacia el futuro?
 	-
--
+- #### Tareas en un estudio estadístico
+- -
