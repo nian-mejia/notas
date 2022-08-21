@@ -14,5 +14,7 @@
 - La estadística abarca:
 	- Resumir:
 		-
+	- Simplificar:
+		- Es mostrar la información de manera diferente que se más fácil de entender.
 -
 - [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
