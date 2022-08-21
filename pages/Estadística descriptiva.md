@@ -13,8 +13,9 @@
 	- Inferencia ==(verificación de hipótesis)== a partir de la información recolectada
 - La estadística abarca:
 	- **Resumir**:
-		- Es importante porque cuando hay una gran cantidad de datos, no es posible mostrala de esa manera.
+		- Es importante porque cuando hay una gran cantidad de datos, no es posible mostrarla de esa manera.
+		- La información dada por una rápida y simple descripción de los datos como ==la media, mediana, moda, rango y desviación estándar.==
 	- **Simplificar**:
-		- Es mostrar la información de manera diferente que se más fácil de entender.
+		- Es mostrar la información de manera diferente que se más fácil de entender. Por ejemplo rangos, es más fácil decir hay
 -
 - [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
