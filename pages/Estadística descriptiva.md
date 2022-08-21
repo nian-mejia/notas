@@ -60,8 +60,9 @@
 - ## Niveles de medición o escalas de medición
 - **Nominal**
 	- Este nivel se utiliza cuando los valores en los que se mide la variable son códigos que representan la pertenencia a una categoría.
-	-
+	- ((630262c8-9896-410e-ac6b-5d145e7cd87f))
 - **Ordinal**
+	- Se usa cuando los valores de una variable informan acerca de un orden o jerarquía
 -
 - (*minuto 1:20:00 - 1:28:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 -
