@@ -62,12 +62,12 @@
 	- Este nivel se utiliza cuando los valores en los que se mide la variable son códigos que representan la pertenencia a una categoría.
 	- ((630262c8-9896-410e-ac6b-5d145e7cd87f))
 - **Ordinal**
-	- Se usa cuando los valores de una variable informan acerca de un orden o jerarquía
+	- Se usa cuando los valores de una variable informan acerca de un ==orden o jerarquía==
 	- ((63026323-570b-47a1-b8a0-212640e4e590))
 - **Intervalo**
-	- El cero no es absoluto. ((63026369-fcf2-4875-bbb9-bfc6572d845b))
+	- ==El cero no es absoluto==. ((63026369-fcf2-4875-bbb9-bfc6572d845b))
 - **Razón**
 	- ==El cero si indica la ausencia del dato==. ((630263b8-7859-44b7-b47b-42c0e98fd190))
-- (*minuto 1:20:00 - 1:28:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
+- (*minuto 1:20:00 - 1:27:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 -
 -
