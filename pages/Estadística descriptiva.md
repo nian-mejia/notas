@@ -32,4 +32,5 @@
 	- Estrategias de Observación: Censo, Muestreo, Diseño de Experimentos.
 	- Recolección y registro de información.
 	- Depuración de la información.
+	- Producción de resúmenes estadísticos (gráficos y/o numericos)
 -
