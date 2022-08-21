@@ -31,9 +31,9 @@
 	- Delimitar la población de referencia o el conjunto de datos en estudio, las unidades que deben ser observadas, las características o variables que serán medidas u observadas
 		- La población de la encuesta debe representar a todos, no se puede generalizar con las personas que participaron en la encuesta.
 		- Para mitigar no es necesario solo el tamaño, sino cuanto % me representa, es decir si tengo una encuesta de pobreza, ir a muchas zonas donde pueda ser representado muchos tipos de poblaciones, no solo ricos. (==minuto 9:00 - 10:00== ((63023ff8-5768-4f70-a81b-e75e353d33e5)) )
-	- Estrategias de Observación: Censo, Muestreo, Diseño de Experimentos.
+	- **Estrategias de Observación**: Censo, Muestreo, Diseño de Experimentos.
 		- El **muestreo** si setea condiciones especificas de la población, la cantidad, el tipo de población
-		- Los **censos** son muy buenos pero no son prácticos (==minuto 17:28 - 18:00== ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
+		- Los **censos** son muy buenos pero no son prácticos, el censo trata de contar a todos (==minuto 17:30 - 18:00== ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 	- Recolección y registro de información.
 	- Depuración de la información.
 	- Producción de resúmenes estadísticos (gráficos y/o numericos)
