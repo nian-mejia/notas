@@ -58,6 +58,9 @@
 	- (*minuto 46:40 - 54:00*, *minuto 1:00:00 - 1:04:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 - Una unidad muestral es cada de las personas que fue encuestada, o cada registro.
 - ## Niveles de medición
+- **Nominal**
+	-
+- **Ordinal**
 -
 - (*minuto 1:20:00 - 1:28:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 -
