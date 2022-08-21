@@ -51,5 +51,6 @@
 	- Comprende todas las técnicas y métodos que permiten evaluar las diferentes hipótesis asociadas al fenómeno de interés, a partir de la información recolectada. La inferencia va antes, porque son dudas que yo pueda tener.
 - **Elementos de Regresión**. Permiten explorar la posible relación entre variables y la manera como unas tienen efecto sobre las otras
 - ## Tipos de variables
-	- (*minuto 24:30 - 25:48* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
+	-
+	- (*minuto 46:40 - 25:48* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 -
