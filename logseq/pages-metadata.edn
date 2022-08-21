@@ -36,10 +36,13 @@
   :block/updated-at 1661014718401}
  {:block/name "aug 19th, 2022",
   :block/created-at 1661015102197,
-  :block/updated-at 1661018365955}
+  :block/updated-at 1661108954987}
  {:block/name "aug 20th, 2022",
   :block/created-at 1661014718309,
-  :block/updated-at 1661043859955}
+  :block/updated-at 1661091844130}
+ {:block/name "aug 21st, 2022",
+  :block/created-at 1661091769032,
+  :block/updated-at 1661111018250}
  {:block/name "autor",
   :block/created-at 1660444684765,
   :block/updated-at 1660444684765}
@@ -99,7 +102,7 @@
   :block/updated-at 1660444684768}
  {:block/name "estadística descriptiva",
   :block/created-at 1661036570870,
-  :block/updated-at 1661044847948}
+  :block/updated-at 1661101089610}
  {:block/name "etc",
   :block/created-at 1660444684367,
   :block/updated-at 1660444684367}
@@ -141,7 +144,7 @@
   :block/updated-at 1661018897854}
  {:block/name "hls__parte_i_1661036792883_0",
   :block/created-at 1661036816831,
-  :block/updated-at 1661036816831}
+  :block/updated-at 1661097147278}
  {:block/name "hls__tema01_1660590011568_0",
   :block/created-at 1660620892471,
   :block/updated-at 1660620892471}
