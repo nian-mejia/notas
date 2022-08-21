@@ -42,4 +42,5 @@
 	- **Depuración de la información:** Hace referencia a si hay datos malos, datos faltantes. La área que se encarga de esto es **la imputación de datos**
 	- **Producción de resúmenes estadísticos** (gráficos y/o numéricos)
 		- La mejor manera de entender los datos es crear resúmenes, gráficos. Tiene que ir de la mano con las conclusiones (la interpretación).
--
+- **Estadística Descriptiva**:
+	- Es todo el análisis exploratiorio a nivel numérico
