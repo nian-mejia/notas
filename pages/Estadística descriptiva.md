@@ -43,8 +43,8 @@
 	- **Producción de resúmenes estadísticos** (gráficos y/o numéricos)
 		- La mejor manera de entender los datos es crear resúmenes, gráficos. Tiene que ir de la mano con las conclusiones (la interpretación).
 - **Estadística Descriptiva**:
-	- Es todo el análisis exploratorio a nivel numérico y gráfico. Es la etapa más importante, porque permite conocer las características de los datos y la relación con el fenómeno de interes.
+	- Es todo el análisis exploratorio a nivel numérico y gráfico. Es la etapa más importante, porque permite conocer las características de los datos y la relación con el fenómeno de interes. (*minuto 27:00 - 25:48* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 - **Estimación puntal**
 	- Métodos para poder calcular un ==aproximado de un parámetro== de la población, **ej** ver la media de la edad de la población, ==si cuento con todos los datos== este sería una estimación puntual
 - **Inferencia estadística**
-	- Comprende todas las técnicas y métodos que permiten evaluar las diferentes hipótesis asociadas al fenómeno de interés, a partir de la información recolectada.
+	- Comprende todas las técnicas y métodos que permiten evaluar las diferentes hipótesis asociadas al fenómeno de interés, a partir de la información recolectada. La inferencia va antes, porque son dudas que yo pueda tener.
