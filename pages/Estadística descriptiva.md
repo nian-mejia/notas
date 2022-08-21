@@ -2,8 +2,11 @@
 	- ![Parte I.pdf](../assets/Parte_I_1661036792883_0.pdf)
 	- [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
 	  id:: 6301731e-753a-4f08-b1f4-1eed026f6343
-	- @@html: <audio controls><source src="https://drive.google.com/file/d/18xdaTgM78J0dPfq0ceg7KFVdxWUG3AGw/view?usp=sharing"  type="audio/wav"></audio>@@
+	- @@html: <audio controls><source src="https://drive.google.com/file/d/18xdaTgM78J0dPfq0ceg7KFVdxWUG3AGw/view?usp=sharing" type="audio/mpeg"></audio>@@
 	  id:: 6302414c-2966-4474-8de8-6baf60890566
+	  :LOGBOOK:
+	  CLOCK: [2022-08-21 Sun 09:33:18]
+	  :END:
 	- autor:: Curso de manejo de datos
 	  tipo:: [[Libro]]
 	  estado::  [[En progreso]]
