@@ -1,12 +1,5 @@
 - 📖Estadística parte 1  #Bibliografía
 	- ![Parte I.pdf](../assets/Parte_I_1661036792883_0.pdf)
-	- [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
-	  id:: 6301731e-753a-4f08-b1f4-1eed026f6343
-	- @@html: <audio controls><source src="https://drive.google.com/file/d/18xdaTgM78J0dPfq0ceg7KFVdxWUG3AGw/view?usp=sharing" type="audio/mpeg"></audio>@@
-	  id:: 6302414c-2966-4474-8de8-6baf60890566
-	  :LOGBOOK:
-	  CLOCK: [2022-08-21 Sun 09:33:18]
-	  :END:
 	- autor:: Curso de manejo de datos
 	  tipo:: [[Libro]]
 	  estado::  [[En progreso]]
@@ -19,11 +12,10 @@
 	- Descripción de conjunto de datos (análisis exploratorio)
 	- Inferencia ==(verificación de hipótesis)== a partir de la información recolectada
 - La estadística abarca:
-	- 🔗 !["hola"]("https://drive.google.com/file/d/18xdaTgM78J0dPfq0ceg7KFVdxWUG3AGw/view?usp=sharing") #Extracto
+	- 🔗 [Clase 1](https://drive.google.com/file/d/18xdaTgM78J0dPfq0ceg7KFVdxWUG3AGw/view?usp=sharing) #Extracto
 		- tipo:: [[Referencia]]
 		  posición:: últimos 10 minutos
 		  etiquetas:: función principal de la estadística
-		- **Bibliografía**: ((6301731e-753a-4f08-b1f4-1eed026f6343))
 	- **Resumir**:
 		- Es importante porque cuando hay una gran cantidad de datos, no es posible mostrarla de esa manera.
 		- La información dada por una rápida y simple descripción de los datos como ==la media, mediana, moda, rango y desviación estándar.==
