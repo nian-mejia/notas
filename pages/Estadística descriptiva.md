@@ -1,5 +1,7 @@
 - 📖Estadística parte 1  #Bibliografía
 	- ![Parte I.pdf](../assets/Parte_I_1661036792883_0.pdf)
+	- [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
+	  id:: 6301731e-753a-4f08-b1f4-1eed026f6343
 	- autor:: Curso de manejo de datos
 	  tipo:: [[Libro]]
 	  estado::  [[En progreso]]
@@ -29,5 +31,3 @@
 		- Con lo que conozco del negocio, ¿Cómo me puedo adelantar hacia el futuro?
 	-
 -
-- [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
-  id:: 6301731e-753a-4f08-b1f4-1eed026f6343
