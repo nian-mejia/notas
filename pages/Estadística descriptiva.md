@@ -1,4 +1,4 @@
-- 📖Titulo libro o ppt #Bibliografía
+- 📖Estadística parte 1  #Bibliografía
 	- ![Parte I.pdf](../assets/Parte_I_1661036792883_0.pdf)
 	- autor:: Curso de manejo de datos
 	  tipo:: [[Libro]]
@@ -18,6 +18,8 @@
 	- **Simplificar**:
 		- Es mostrar la información de manera diferente que se más fácil de entender. Por ejemplo rangos, es más fácil decir hay 30% en este rango de edades.
 	- **Comparar**
+	- **Relacionar**
+		- Verificar si un dato depende de otro.
 	-
 	-
 -
