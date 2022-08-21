@@ -1,6 +1,9 @@
 [{:block/name "a",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
+ {:block/name "absolutos",
+  :block/created-at 1661017431321,
+  :block/updated-at 1661017431321}
  {:block/name "anotaciones",
   :block/created-at 1660444684381,
   :block/updated-at 1660444684381}
@@ -24,10 +27,10 @@
   :block/updated-at 1661014718401}
  {:block/name "aug 19th, 2022",
   :block/created-at 1661015102197,
-  :block/updated-at 1661015102197}
+  :block/updated-at 1661018365955}
  {:block/name "aug 20th, 2022",
   :block/created-at 1661014718309,
-  :block/updated-at 1661014718309}
+  :block/updated-at 1661043859955}
  {:block/name "autor",
   :block/created-at 1660444684765,
   :block/updated-at 1660444684765}
@@ -85,6 +88,9 @@
  {:block/name "estado",
   :block/created-at 1660444684768,
   :block/updated-at 1660444684768}
+ {:block/name "estadística descriptiva",
+  :block/created-at 1661036570870,
+  :block/updated-at 1661044168228}
  {:block/name "etc",
   :block/created-at 1660444684367,
   :block/updated-at 1660444684367}
@@ -121,6 +127,12 @@
  {:block/name "fracciones",
   :block/created-at 1661014718474,
   :block/updated-at 1661014718474}
+ {:block/name "hls__90_lecciones_precálculo_1661012197657_0",
+  :block/created-at 1661018897854,
+  :block/updated-at 1661018897854}
+ {:block/name "hls__parte_i_1661036792883_0",
+  :block/created-at 1661036816831,
+  :block/updated-at 1661036816831}
  {:block/name "hls__tema01_1660590011568_0",
   :block/created-at 1660620892471,
   :block/updated-at 1660620892471}
@@ -133,6 +145,9 @@
  {:block/name "intervalos",
   :block/created-at 1661015102184,
   :block/updated-at 1661015102184}
+ {:block/name "introduccion al manejo de datos",
+  :block/created-at 1661036552707,
+  :block/updated-at 1661036552707}
  {:block/name "later",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
@@ -151,6 +166,9 @@
  {:block/name "minuto",
   :block/created-at 1660444684365,
   :block/updated-at 1660444684365}
+ {:block/name "moreno",
+  :block/created-at 1661041394325,
+  :block/updated-at 1661041394325}
  {:block/name "neutral",
   :block/created-at 1660444684566,
   :block/updated-at 1660444684566}
@@ -189,7 +207,7 @@
   :block/updated-at 1661015102182}
  {:block/name "recta numérica, orden e intervalos",
   :block/created-at 1661015102181,
-  :block/updated-at 1661015102181}
+  :block/updated-at 1661043924129}
  {:block/name "referencia",
   :block/created-at 1660444684397,
   :block/updated-at 1660444684397}
@@ -229,6 +247,12 @@
  {:block/name "url",
   :block/created-at 1660444684767,
   :block/updated-at 1660444684767}
+ {:block/name "valores",
+  :block/created-at 1661017431319,
+  :block/updated-at 1661017431319}
+ {:block/name "valores absolutos",
+  :block/created-at 1661017468309,
+  :block/updated-at 1661022721818}
  {:block/name "video",
   :block/created-at 1660444684737,
   :block/updated-at 1660444684737}
