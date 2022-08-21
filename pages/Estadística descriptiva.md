@@ -31,4 +31,5 @@
 	- Delimitar la población de referencia o el conjunto de datos en estudio, las unidades que deben ser observadas, las características o variables que serán medidas u observadas
 	- Estrategias de Observación: Censo, Muestreo, Diseño de Experimentos.
 	- Recolección y registro de información.
+	- Depuración de la información.
 -
