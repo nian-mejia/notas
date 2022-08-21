@@ -42,7 +42,7 @@
   :block/updated-at 1661091844130}
  {:block/name "aug 21st, 2022",
   :block/created-at 1661091769032,
-  :block/updated-at 1661111336706}
+  :block/updated-at 1661113935849}
  {:block/name "autor",
   :block/created-at 1660444684765,
   :block/updated-at 1660444684765}
@@ -67,6 +67,9 @@
  {:block/name "cita",
   :block/created-at 1660444684375,
   :block/updated-at 1660444684375}
+ {:block/name "comando de conda",
+  :block/created-at 1661111907707,
+  :block/updated-at 1661111907707}
  {:block/name "conjuntos",
   :block/created-at 1660620888434,
   :block/updated-at 1660620888434}
@@ -172,6 +175,9 @@
  {:block/name "licencia",
   :block/created-at 1660488777065,
   :block/updated-at 1660488777065}
+ {:block/name "list comprehensions",
+  :block/created-at 1661111907706,
+  :block/updated-at 1661111907706}
  {:block/name "matemáticas básicas",
   :block/created-at 1660620888484,
   :block/updated-at 1660620888484}
