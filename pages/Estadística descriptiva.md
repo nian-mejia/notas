@@ -6,7 +6,7 @@
 	- autor:: Curso de manejo de datos
 	  tipo:: [[Libro]]
 	  estado::  [[En progreso]]
-- #### ¿Por qué estudiar Estadística?
+- ## ¿Por qué estudiar Estadística?
 	- Aprender las reglas y métodos usados en el tratamiento de información.
 	- Entender mejor algunos fenómenos de interés (social, económico, educativos etc)
 	- Evaluar y cuantificar la importancia de los resultados estadísticos
@@ -30,7 +30,7 @@
 	- **Proyectar**
 		- Con lo que conozco del negocio, ¿Cómo me puedo adelantar hacia el futuro?
 - [Clase 2](https://drive.google.com/file/d/15KpsFL19N-LBroumgCw9vKHqRYqxNY1t/view?usp=sharing)
-- #### Tareas en un estudio estadístico
+- ## Tareas en un estudio estadístico
 	- **Delimitar la población de referencia** o el conjunto de datos en estudio, las unidades que deben ser observadas, las características o variables que serán medidas u observadas
 		- La población de la encuesta debe representar a todos, no se puede generalizar con las personas que participaron en la encuesta.
 		- Para mitigar no es necesario solo el tamaño, sino cuanto % me representa, es decir si tengo una encuesta de pobreza, ir a muchas zonas donde pueda ser representado muchos tipos de poblaciones, no solo ricos. (*minuto 9:00 - 10:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)) )
@@ -51,12 +51,11 @@
 	- Comprende todas las técnicas y métodos que permiten evaluar las diferentes hipótesis asociadas al fenómeno de interés, a partir de la información recolectada. La inferencia va antes, porque son dudas que yo pueda tener.
 - **Elementos de Regresión**. Permiten explorar la posible relación entre variables y la manera como unas tienen efecto sobre las otras
 - ## Tipos de datos o variables
+	- El tipo de datos me permite elegir el me
 	- **Continuos**: Necesito un instrumento que me permita medir. ((63025c9b-5449-421e-8530-716ddf368a5a))
 	- **Categóricos**: ((63025d3c-af09-4322-aee8-34998c064548)) **No se pueden promediar**
 	- **Conteo**: Me permite saber cuantos ej: Cuantas veces he salido del país ((63025d19-46cd-4073-b683-a937832f9b93))
 	- (*minuto 46:40 - 52:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
--
--
 -
 -
 -
