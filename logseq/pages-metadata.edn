@@ -1,4 +1,13 @@
-[{:block/name "a",
+[{:block/name "\"..",
+  :block/created-at 1661044831931,
+  :block/updated-at 1661044831931}
+ {:block/name "\"../assets",
+  :block/created-at 1661044831933,
+  :block/updated-at 1661044831933}
+ {:block/name "\"../assets/clase_1_estadistica_1661039390943_0.m4a\"",
+  :block/created-at 1661044831927,
+  :block/updated-at 1661044831927}
+ {:block/name "a",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
  {:block/name "absolutos",
@@ -90,7 +99,7 @@
   :block/updated-at 1660444684768}
  {:block/name "estadística descriptiva",
   :block/created-at 1661036570870,
-  :block/updated-at 1661044168228}
+  :block/updated-at 1661044847948}
  {:block/name "etc",
   :block/created-at 1660444684367,
   :block/updated-at 1660444684367}
