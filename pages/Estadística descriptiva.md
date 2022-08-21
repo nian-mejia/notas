@@ -32,7 +32,7 @@
 		- La población de la encuesta debe representar a todos, no se puede generalizar con las personas que participaron en la encuesta.
 		- Para mitigar no es necesario solo el tamaño, sino cuanto % me representa, es decir si tengo una encuesta de pobreza, ir a muchas zonas donde pueda ser representado muchos tipos de poblaciones, no solo ricos. (==minuto 9:00 - 10:00== ((63023ff8-5768-4f70-a81b-e75e353d33e5)) )
 	- Estrategias de Observación: Censo, Muestreo, Diseño de Experimentos.
-		- El muestreo si setea condiciones especificas
+		- El **muestreo** si setea condiciones especificas de la población, la cantidad, el tipo de población
 	- Recolección y registro de información.
 	- Depuración de la información.
 	- Producción de resúmenes estadísticos (gráficos y/o numericos)
