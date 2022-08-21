@@ -33,7 +33,7 @@
 		- Para mitigar no es necesario solo el tamaño, sino cuanto % me representa, es decir si tengo una encuesta de pobreza, ir a muchas zonas donde pueda ser representado muchos tipos de poblaciones, no solo ricos. (==minuto 9:00 - 10:00== ((63023ff8-5768-4f70-a81b-e75e353d33e5)) )
 	- **Estrategias de Observación**: Censo, Muestreo, Diseño de Experimentos.
 		- Los **censos** son muy buenos pero no son prácticos, el censo trata de contar a todos. Los censos son costosos en tiempo, en recursos. Se pueden cambiar por otras metodologías de proyecciones. Se debe aplicar solo en los casos donde es estrictamente necesario. **Ej**: La encuesta de caracterización de la universidad, es posible hacer el censo porque si se hace, no se pone en peligro a los estudiantes y no es de muchos esfuerzo. (==minuto 17:30 - 19:00== ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
-		- El **muestreo** si setea condiciones especificas de la población, la cantidad, el tipo de población, es un muestra con las mismas características que la población, pero de menor tamaño (==minuto 17:30 - 19:00== ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
+		- El **muestreo** si setea condiciones especificas de la población, la cantidad, el tipo de población. Es un muestra con las mismas características que la población, pero de menor tamaño (==minuto 20:40 - 22:00== ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 	- Recolección y registro de información.
 	- Depuración de la información.
 	- Producción de resúmenes estadísticos (gráficos y/o numericos)
