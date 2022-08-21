@@ -37,6 +37,6 @@
 		- **Diseño experimentales**: Se ponen ==condiciones especificas para saber que puede pasar==, **Ej:** Si estudio 2 horas al día, ¿Cómo me irá en el semestre? (*minuto 22:00 - 24:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 	- **Recolección y registro de información**
 	- Si se recogen los datos a mano, se presta para errores, de legitimidad, no son claros. Hay que tener en cuenta la escala, ¿Cómo se va registrar la información?, ahora es necesario que la información se recolecte con dispositivos electrónicos.(*minuto 24:30 - 25:48* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
-	- **Depuración de la información**.
+	- **Depuración de la información:**
 	- Producción de resúmenes estadísticos (gráficos y/o numéricos)
 -
