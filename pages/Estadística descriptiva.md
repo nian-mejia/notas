@@ -67,7 +67,7 @@
 - **Intervalo**
 	- El cero no es absoluto. ((63026369-fcf2-4875-bbb9-bfc6572d845b))
 - **Razón**
-	-
+	- ==El cero si indica la ausencia del dato==. ((630263b8-7859-44b7-b47b-42c0e98fd190))
 - (*minuto 1:20:00 - 1:28:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 -
 -
