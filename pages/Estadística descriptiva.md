@@ -38,5 +38,6 @@
 	- **Recolección y registro de información**
 	- Si se recogen los datos a mano, se presta para errores, de legitimidad, no son claros. Hay que tener en cuenta la escala, ¿Cómo se va registrar la información?, ahora es necesario que la información se recolecte con dispositivos electrónicos.(*minuto 24:30 - 25:48* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 	- Depuración de la información.
-	- Producción de resúmenes estadísticos (gráficos y/o numericos)
+	- Producción de resúmenes estadísti
+	- cos (gráficos y/o numericos)
 -
