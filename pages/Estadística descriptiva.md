@@ -43,4 +43,5 @@
 	- **Producción de resúmenes estadísticos** (gráficos y/o numéricos)
 		- La mejor manera de entender los datos es crear resúmenes, gráficos. Tiene que ir de la mano con las conclusiones (la interpretación).
 - **Estadística Descriptiva**:
-	- Es todo el análisis exploratorio a nivel numérico y gráfico. Es la etapa más importante, porque permite conocer las características de los datos y la relación con el
+	- Es todo el análisis exploratorio a nivel numérico y gráfico. Es la etapa más importante, porque permite conocer las características de los datos y la relación con el fenómeno de interes.
+-
