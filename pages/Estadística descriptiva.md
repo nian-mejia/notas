@@ -12,6 +12,11 @@
 	- Descripción de conjunto de datos (análisis exploratorio)
 	- Inferencia ==(verificación de hipótesis)== a partir de la información recolectada
 - La estadística abarca:
+	- 🔗Referencia hacia otra bibliografía #Extracto
+		- tipo:: [[Referencia]]
+		  posición:: pagina o minuto
+		  etiquetas:: numeral etiqueta
+		- **Bibliografía**: Enlace por bloque
 	- **Resumir**:
 		- Es importante porque cuando hay una gran cantidad de datos, no es posible mostrarla de esa manera.
 		- La información dada por una rápida y simple descripción de los datos como ==la media, mediana, moda, rango y desviación estándar.==
@@ -20,8 +25,8 @@
 	- **Comparar**
 	- **Relacionar**
 		- Verificar si un dato depende de otro.
-	- Proyectar
-		-
+	- **Proyectar**
+		- Con lo que conozco del negocio, ¿Cómo me puedo adelantar hacia el futuro?
 	-
 -
 - [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
