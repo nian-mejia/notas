@@ -16,6 +16,9 @@
 		- Es importante porque cuando hay una gran cantidad de datos, no es posible mostrarla de esa manera.
 		- La información dada por una rápida y simple descripción de los datos como ==la media, mediana, moda, rango y desviación estándar.==
 	- **Simplificar**:
-		- Es mostrar la información de manera diferente que se más fácil de entender. Por ejemplo rangos, es más fácil decir hay
+		- Es mostrar la información de manera diferente que se más fácil de entender. Por ejemplo rangos, es más fácil decir hay 30% en este rango de edades.
+	- **Comparar**
+	-
+	-
 -
 - [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
