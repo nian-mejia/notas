@@ -64,8 +64,10 @@
 - **Ordinal**
 	- Se usa cuando los valores de una variable informan acerca de un orden o jerarquía
 	- ((63026323-570b-47a1-b8a0-212640e4e590))
-- **
--
+- **Intervalo**
+	- El cero no es absoluto. ((63026369-fcf2-4875-bbb9-bfc6572d845b))
+- **Razón**
+	-
 - (*minuto 1:20:00 - 1:28:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 -
 -
