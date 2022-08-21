@@ -19,7 +19,7 @@
 	- Descripción de conjunto de datos (análisis exploratorio)
 	- Inferencia ==(verificación de hipótesis)== a partir de la información recolectada
 - La estadística abarca:
-	- 🔗Referencia hacia otra bibliografía #Extracto
+	- 🔗 "https://drive.google.com/file/d/18xdaTgM78J0dPfq0ceg7KFVdxWUG3AGw/view?usp=sharing" #Extracto
 		- tipo:: [[Referencia]]
 		  posición:: últimos 10 minutos
 		  etiquetas:: función principal de la estadística
