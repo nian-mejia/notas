@@ -57,5 +57,5 @@
 	- **Conteo**: Me permite saber cuantos ej: Cuantas veces he salido del país ((63025d19-46cd-4073-b683-a937832f9b93))
 	- (*minuto 46:40 - 54:00*, *minuto 1:00:00 - 1:04:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 - Una unidad muestral es cada de las personas que fue encuestada, o cada registro.
--
+- (*minuto 46:40 - 54:00*, *minuto 1:00:00 - 1:04:00* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
 -
