@@ -59,6 +59,7 @@
 - Una unidad muestral es cada de las personas que fue encuestada, o cada registro.
 - ## Niveles de medición o escalas de medición
 - **Nominal**
+	- Este nivel se utiliza cuando los valores en los que se mide la variable son códigos que representan la pertenencia a una categoría.
 	-
 - **Ordinal**
 -
