@@ -2,7 +2,7 @@
 	- ![Parte I.pdf](../assets/Parte_I_1661036792883_0.pdf)
 	- [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
 	  id:: 6301731e-753a-4f08-b1f4-1eed026f6343
-	- [:audio {:controls true :src "file:C://Users/USERNAME/Folder/audio.ogg"}]
+	- [:audio {:controls true :src "file:../assets/Clase_1_estadistica_1661039390943_0.m4a"}]
 	- autor:: Curso de manejo de datos
 	  tipo:: [[Libro]]
 	  estado::  [[En progreso]]
