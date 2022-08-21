@@ -12,8 +12,8 @@
 	- Evaluar y cuantificar la importancia de los resultados estadísticos
 	- Dar un visión más clara acerca de la información proveniente de diversas fuentes
 - La estadística se ocupa del manejo de la información que puede ser cuantificada. Esto implica:
-	- Descripción de conjunto de datos (análisis exploratorio)
-	- Inferencia ==(verificación de hipótesis)== a partir de la información recolectada
+	- Descripción de conjunto de datos (**análisis exploratorio**)
+	- **Inferencia** ==(verificación de hipótesis)== a partir de la información recolectada
 - La estadística abarca:
 	- 🔗 [Clase 1](https://drive.google.com/file/d/18xdaTgM78J0dPfq0ceg7KFVdxWUG3AGw/view?usp=sharing) #Extracto
 		- tipo:: [[Referencia]]
