@@ -52,7 +52,8 @@
 - **Elementos de Regresión**. Permiten explorar la posible relación entre variables y la manera como unas tienen efecto sobre las otras
 - ## Tipos de variables
 	- Continuos: Necesito un instrumento que me permita medir, como un pesa
-	- Categoricos
+	- Categóricos
 	- Conteo: Me permite saber cuantos ej: Cuantas veces he salido del pais
 	- (*minuto 46:40 - 25:48* ((63023ff8-5768-4f70-a81b-e75e353d33e5)))
+-
 -
