@@ -26,7 +26,7 @@
 		- **Abiertos**
 			- Es denotado por $(a, b)$, es un conjunto de los números reales mayores que a y menos que b.
 			- $$c \isin (a, b), a < c \wedge c < b$$
-			- Al combinar la expresión $$a < c < b$$}
+			- Al combinar la expresión $$a < c < b$$
 			- En los intervalos abiertos ni a ni b, pertenecen al intervalo
 			- $$ a \notin (a, b), b \notin (a, b)$$
 			- Termino de desigualdades
