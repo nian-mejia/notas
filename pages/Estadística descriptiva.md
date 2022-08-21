@@ -26,11 +26,11 @@
 		- Verificar si un dato depende de otro.
 	- **Proyectar**
 		- Con lo que conozco del negocio, ¿Cómo me puedo adelantar hacia el futuro?
-	-
+-
 - #### Tareas en un estudio estadístico
 	- Delimitar la población de referencia o el conjunto de datos en estudio, las unidades que deben ser observadas, las características o variables que serán medidas u observadas
 		- La población de la encuesta debe representar a todos, no se puede generalizar con las personas que participaron en la encuesta.
-		- Para mitigar no es necesario solo el tamaño, sino cuanto % me representa, es decir si tengo una encuesta de pobreza, ir a muchas zonas donde pueda ser representado muchos tipos de poblaciones, no solo ricos. (minuto 9:00 )
+		- Para mitigar no es necesario solo el tamaño, sino cuanto % me representa, es decir si tengo una encuesta de pobreza, ir a muchas zonas donde pueda ser representado muchos tipos de poblaciones, no solo ricos. (==minuto 9:00 - 10:00== )
 	- Estrategias de Observación: Censo, Muestreo, Diseño de Experimentos.
 	- Recolección y registro de información.
 	- Depuración de la información.
