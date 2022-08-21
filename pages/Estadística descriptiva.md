@@ -13,7 +13,7 @@
 	- Inferencia ==(verificación de hipótesis)== a partir de la información recolectada
 - La estadística abarca:
 	- **Resumir**:
-		-
+		- Es importante porque cuando hay una gran cantidad de datos, no es posible mostrala de esa manera.
 	- **Simplificar**:
 		- Es mostrar la información de manera diferente que se más fácil de entender.
 -
