@@ -14,9 +14,9 @@
 - La estadística abarca:
 	- 🔗Referencia hacia otra bibliografía #Extracto
 		- tipo:: [[Referencia]]
-		  posición:: pagina o minuto
-		  etiquetas:: numeral etiqueta
-		- **Bibliografía**: Enlace por bloque
+		  posición:: últimos 10 minutos
+		  etiquetas:: función principal de la estadística
+		- **Bibliografía**: ((6301731e-753a-4f08-b1f4-1eed026f6343))
 	- **Resumir**:
 		- Es importante porque cuando hay una gran cantidad de datos, no es posible mostrarla de esa manera.
 		- La información dada por una rápida y simple descripción de los datos como ==la media, mediana, moda, rango y desviación estándar.==
@@ -30,3 +30,4 @@
 	-
 -
 - [Clase 1 estadistica.m4a](../assets/Clase_1_estadistica_1661039390943_0.m4a)
+  id:: 6301731e-753a-4f08-b1f4-1eed026f6343
