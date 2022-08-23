@@ -1,0 +1,34 @@
+- Si $a , x ∈ \mathbb R$, una expresión de la forma $a^x$ se llama expresión exponencial, el número a se llama **base**, y el número **x** se conoce como **exponente**
+- ## Exponentes enteros
+	- Sean $a \isin \mathbb R$ y $n \isin \mathbb N$
+	- a) **Exponentes enteros positivos ó naturales**
+		- El producto a . a .... a de n factores se denota por $a^n$ y se llama la n-ésima potencia de a.
+		- $$(\frac{1}{2})^4 = \frac{1}{2}  \cdot \frac{1}{2} \cdot  \frac{1}{2} \cdot \frac{1}{2} $$
+	- b) **Exponente 0**
+		- $a \isin \mathbb R, a \neq 0$ , se define como $a ^0 = 1$
+		- $(-5)^0 = 1$
+	- c) **Exponente negativo**
+		- $a \isin \mathbb R, a \neq 0$ y $n  \isin \mathbb Z-$
+		- Definimos $a^{-n} = \frac{1}{a^n}$
+		- $$3^{-2} = \frac{1}{3^2} = \frac{1}{9}$$
+- ## Leyes de los exponentes
+- Si $𝑎,𝑏∈ℝ$ y  $𝑚,𝑛∈ℤ$
+- **1.** $$a^m a^n = a^{m+n}$$
+	- $5^6 \cdot 5^3 = 5^{6+3}$
+- **2.** $a \isin \mathbb R, a \neq 0$ y $𝑚,𝑛∈ℤ$, se puede probar usando la ley uno que
+	- $$\frac{a^m}{a^n} = a^{m-n}, a \neq 0$$
+	- $$\frac{4^7}{4^2} = 4^{7-2} = 4^5$$
+- **3.** $a \isin \mathbb R, a \neq 0$ y $𝑚,𝑛∈ℤ$
+	- $(a^m)^n = a^{m \cdot n}$
+	- $(7^6)^3 = 7^{6 \cdot 3} = 7^{18}$
+- **4.** $$(ab)^n  = a^n b^n, n \isin \mathbb N$$ ==El exponente baja a cada termino==
+	- $(5 \cdot 8) ^4 = 5^4 \cdot 8^4$
+- **5.** Si hay una división se baja los exponente a cada termino, siempre y cuando b sea diferente de cero
+	- $$\left(\frac{a}{b} \right) ^n = \frac{a^n}{b^n}, \text{ con } b \neq 0, n \isin \mathbb N$$
+	- $$\left(\frac{9}{4}\right)^2 = \frac{9^2}{4^2} = \frac{81}{16} $$
+- **6.** $a \text{ y } b \neq 0, m, n \isin \mathbb N$
+	- $$\left(\frac{a}{b} \right)^{-n} = \left(\frac{b}{a}\right)^n$$
+	- $$\left(\frac{5}{3}\right)^{-2} = \left(\frac{3}{5}\right)^{2}$$
+- **7.** $a \text{ y } b \neq 0, m, n \isin \mathbb N$
+	- $$\frac{a^{-n}}{b^{-m}} = \frac{b^{m}}{a^{n}}$$
+	- $$\frac{4^{-3}}{7^{-5}} = \frac{7^5}{4^3}$$
