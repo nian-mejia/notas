@@ -1,4 +1,6 @@
 logseq/bak/
 logseq/.recycle
 .DS_Store
-*.edn
+metadata.edn
+pages-metadata.edn
+assets/*.edn
