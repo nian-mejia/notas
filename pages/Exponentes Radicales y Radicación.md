@@ -1,0 +1,8 @@
+- Vamos a considerar ahora las expresiones de la forma $a^{\frac{p}{q}}$ , con $a ∈ R$ y  $\frac{p}{q} ∈ Q$, es decir, expresiones exponenciales en las cuales el exponente es un número racional.
+- ## Expresiones $$a^{\frac{1}{n}}, n \isin \mathbb N$$
+- Cuando el número racional es de la forma $\frac{1}{n}$, con $$n \isin \mathbb N$$, la expresión $$a^{\frac{1}{n}}$$, se escribe $$\sqrt[n]{a}$$ y se llama **raı́z n-ésima principal** de 𝑎.
+- En particular, si $n=2$ y $$a \geq 0$$, la expresión $$\sqrt[2]{a}$$, se escribe $\sqrt[]{a}$ y se llama la **raı́z cuadrada principal** de 𝑎. Las raices ==con a < 0 no está definida==
+- Si $a \geq 0$, la raiz cuadrada de a, es el *único*  $b \geq 0$
+- Si $a \geq 0$ y $$n \isin \mathbb N $$ **par**. La raíz n-ésima de a, que se denota como $$\sqrt[n ]{a}$$, es el *único* $$b \geq 0$$, tal que $b^n = a$
+- Si $a \isin \mathbb R$ y *n es un número natural* **impar**. La raíz n-ésima de a, que se denota como $$\sqrt[n ]{a}$$, es el *único* $$b \geq 0$$, tal que $b^n = a$
+-

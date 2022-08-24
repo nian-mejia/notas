@@ -1,13 +1,4 @@
-[{:block/name "\"..",
-  :block/created-at 1661044831931,
-  :block/updated-at 1661044831931}
- {:block/name "\"../assets",
-  :block/created-at 1661044831933,
-  :block/updated-at 1661044831933}
- {:block/name "\"../assets/clase_1_estadistica_1661039390943_0.m4a\"",
-  :block/created-at 1661044831927,
-  :block/updated-at 1661044831927}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
  {:block/name "absolutos",
@@ -16,15 +7,6 @@
  {:block/name "anotaciones",
   :block/created-at 1660444684381,
   :block/updated-at 1660444684381}
- {:block/name "artículo",
-  :block/created-at 1660444684716,
-  :block/updated-at 1660444684716}
- {:block/name "aug 13th, 2022",
-  :block/created-at 1660425377192,
-  :block/updated-at 1660445341128}
- {:block/name "aug 14th, 2022",
-  :block/created-at 1660487006084,
-  :block/updated-at 1660497599222}
  {:block/name "aug 15th, 2022",
   :block/created-at 1660620888536,
   :block/updated-at 1660620935621}
@@ -43,6 +25,12 @@
  {:block/name "aug 21st, 2022",
   :block/created-at 1661091769032,
   :block/updated-at 1661113935849}
+ {:block/name "aug 22nd, 2022",
+  :block/created-at 1661154913641,
+  :block/updated-at 1661191132363}
+ {:block/name "aug 23rd, 2022",
+  :block/created-at 1661293438283,
+  :block/updated-at 1661293438283}
  {:block/name "autor",
   :block/created-at 1660444684765,
   :block/updated-at 1660444684765}
@@ -64,9 +52,6 @@
  {:block/name "card",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
- {:block/name "cita",
-  :block/created-at 1660444684375,
-  :block/updated-at 1660444684375}
  {:block/name "comando de conda",
   :block/created-at 1661111907707,
   :block/updated-at 1661111907707}
@@ -79,45 +64,24 @@
  {:block/name "curso",
   :block/created-at 1660444684760,
   :block/updated-at 1660444684760}
- {:block/name "código",
-  :block/created-at 1660444684412,
-  :block/updated-at 1660444684412}
- {:block/name "diario",
-  :block/created-at 1660444684563,
-  :block/updated-at 1660444684563}
  {:block/name "doing",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
  {:block/name "done",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
- {:block/name "emocionado",
-  :block/created-at 1660444684568,
-  :block/updated-at 1660444684568}
  {:block/name "en progreso",
   :block/created-at 1660444684763,
   :block/updated-at 1660444684763}
- {:block/name "enojado",
-  :block/created-at 1660444684569,
-  :block/updated-at 1660444684569}
  {:block/name "estado",
   :block/created-at 1660444684768,
   :block/updated-at 1660444684768}
  {:block/name "estadística descriptiva",
   :block/created-at 1661036570870,
   :block/updated-at 1661101089610}
- {:block/name "etc",
-  :block/created-at 1660444684367,
-  :block/updated-at 1660444684367}
  {:block/name "etiquetas",
   :block/created-at 1660444684415,
   :block/updated-at 1660444684415}
- {:block/name "examen de conducción",
-  :block/created-at 1660488777066,
-  :block/updated-at 1660488777066}
- {:block/name "extracto",
-  :block/created-at 1660444684410,
-  :block/updated-at 1660444684410}
  {:block/name "extractos",
   :block/created-at 1660444684380,
   :block/updated-at 1660444684380}
@@ -127,30 +91,9 @@
  {:block/name "favorites",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
- {:block/name "feliz",
-  :block/created-at 1660444684565,
-  :block/updated-at 1660444684565}
- {:block/name "file",
-  :block/created-at 1660620892494,
-  :block/updated-at 1660620892494}
- {:block/name "file-path",
-  :block/created-at 1660620892487,
-  :block/updated-at 1660620892487}
- {:block/name "finalizado",
-  :block/created-at 1660444684764,
-  :block/updated-at 1660444684764}
  {:block/name "fracciones",
   :block/created-at 1661014718474,
   :block/updated-at 1661014718474}
- {:block/name "hls__90_lecciones_precálculo_1661012197657_0",
-  :block/created-at 1661018897854,
-  :block/updated-at 1661018897854}
- {:block/name "hls__parte_i_1661036792883_0",
-  :block/created-at 1661036816831,
-  :block/updated-at 1661097147278}
- {:block/name "hls__tema01_1660590011568_0",
-  :block/created-at 1660620892471,
-  :block/updated-at 1660620892471}
  {:block/name "ide",
   :block/created-at 1661014718391,
   :block/updated-at 1661014718391}
@@ -166,36 +109,18 @@
  {:block/name "later",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
- {:block/name "ley 769 del 2002",
-  :block/created-at 1660488417823,
-  :block/updated-at 1660488417823}
  {:block/name "libro",
   :block/created-at 1660444684727,
   :block/updated-at 1660444684727}
- {:block/name "licencia",
-  :block/created-at 1660488777065,
-  :block/updated-at 1660488777065}
  {:block/name "list comprehensions",
   :block/created-at 1661111907706,
   :block/updated-at 1661111907706}
  {:block/name "matemáticas básicas",
   :block/created-at 1660620888484,
   :block/updated-at 1660620888484}
- {:block/name "minuto",
-  :block/created-at 1660444684365,
-  :block/updated-at 1660444684365}
- {:block/name "moreno",
-  :block/created-at 1661041394325,
-  :block/updated-at 1661041394325}
- {:block/name "neutral",
-  :block/created-at 1660444684566,
-  :block/updated-at 1660444684566}
  {:block/name "now",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
- {:block/name "numero video",
-  :block/created-at 1660444684366,
-  :block/updated-at 1660444684366}
  {:block/name "numeros enteros",
   :block/created-at 1661014718464,
   :block/updated-at 1661014718464}
@@ -205,51 +130,21 @@
  {:block/name "orden",
   :block/created-at 1661015102183,
   :block/updated-at 1661015102183}
- {:block/name "pagina",
-  :block/created-at 1660444684364,
-  :block/updated-at 1660444684364}
  {:block/name "plataforma",
   :block/created-at 1660444684766,
   :block/updated-at 1660444684766}
- {:block/name "podcast",
-  :block/created-at 1660444684750,
-  :block/updated-at 1660444684750}
  {:block/name "posición",
   :block/created-at 1660444684414,
   :block/updated-at 1660444684414}
- {:block/name "preguntas y respuestas del examen",
-  :block/created-at 1660497599221,
-  :block/updated-at 1660497680060}
  {:block/name "recta numérica",
   :block/created-at 1661015102182,
   :block/updated-at 1661015102182}
  {:block/name "recta numérica, orden e intervalos",
   :block/created-at 1661015102181,
   :block/updated-at 1661043924129}
- {:block/name "referencia",
-  :block/created-at 1660444684397,
-  :block/updated-at 1660444684397}
- {:block/name "sentimiento",
-  :block/created-at 1660444684571,
-  :block/updated-at 1660444684571}
- {:block/name "sin empezar",
-  :block/created-at 1660444684761,
-  :block/updated-at 1660444684761}
  {:block/name "sistemas numéricos",
   :block/created-at 1660620888492,
   :block/updated-at 1660621002546}
- {:block/name "template - bibliografía",
-  :block/created-at 1660444684770,
-  :block/updated-at 1660445230272}
- {:block/name "template - diario",
-  :block/created-at 1660444684572,
-  :block/updated-at 1660444684572}
- {:block/name "template - extractos",
-  :block/created-at 1660444684417,
-  :block/updated-at 1660487638499}
- {:block/name "template - pines",
-  :block/created-at 1660444684064,
-  :block/updated-at 1660444684064}
  {:block/name "teoría de conjuntos",
   :block/created-at 1660620888410,
   :block/updated-at 1660620888410}
@@ -259,9 +154,6 @@
  {:block/name "todo",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
- {:block/name "triste",
-  :block/created-at 1660444684567,
-  :block/updated-at 1660444684567}
  {:block/name "url",
   :block/created-at 1660444684767,
   :block/updated-at 1660444684767}
@@ -271,15 +163,9 @@
  {:block/name "valores absolutos",
   :block/created-at 1661017468309,
   :block/updated-at 1661022721818}
- {:block/name "video",
-  :block/created-at 1660444684737,
-  :block/updated-at 1660444684737}
  {:block/name "wait",
   :block/created-at 1660425489346,
   :block/updated-at 1660425489346}
  {:block/name "waiting",
-  :block/created-at 1660425489346,
-  :block/updated-at 1660425489346}
- {:block/name "índice",
-  :block/created-at 1660444684405, 
-  :block/updated-at 1660444684405}]
+  :block/created-at 1660425489346, 
+  :block/updated-at 1660425489346}]
