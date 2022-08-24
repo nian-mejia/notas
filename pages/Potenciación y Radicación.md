@@ -3,7 +3,7 @@
 	- Sean $a \isin \mathbb R$ y $n \isin \mathbb N$
 	- a) **Exponentes enteros positivos ó naturales**
 		- El producto a . a .... a de n factores se denota por $a^n$ y se llama la n-ésima potencia de a.
-		- $$(\frac{1}{2})^4 = \frac{1}{2}  \cdot \frac{1}{2} \cdot  \frac{1}{2} \cdot \frac{1}{2} $$
+		- $$\left(\frac{1}{2}\right)^4 = \frac{1}{2}  \cdot \frac{1}{2} \cdot  \frac{1}{2} \cdot \frac{1}{2} $$
 	- b) **Exponente 0**
 		- $a \isin \mathbb R, a \neq 0$ , se define como $a ^0 = 1$
 		- $(-5)^0 = 1$
