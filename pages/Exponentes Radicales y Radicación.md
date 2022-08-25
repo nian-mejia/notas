@@ -5,4 +5,45 @@
 - Si $a \geq 0$, la raiz cuadrada de a, es el *único*  $b \geq 0$
 - Si $a \geq 0$ y $$n \isin \mathbb N $$ **par**. La raíz n-ésima de a, que se denota como $$\sqrt[n ]{a}$$, es el *único* $$b \geq 0$$, tal que $b^n = a$
 - Si $a \isin \mathbb R$ y *n es un número natural* **impar**. La raíz n-ésima de a, que se denota como $$\sqrt[n ]{a}$$, es el *único* $$b \geq 0$$, tal que $b^n = a$
+- En resumen $\sqrt[n]{a}$  está definido para todo $$a \isin \mathbb R$$, si ==n es impar==, pero sólo está definido para a >= 0 si ==n es par==
+- #### Ejemplos
+	- a) $$\sqrt[4]{625} = 5$$
+	- b) $$\sqrt[3][-27] = (-3) \text{ ya que }(-3)^3$$
+	- c) $$\sqrt[4]{-81}$$ no definido porque n es par y -81 < 0
+- Importante: Si a ∈ R, $\sqrt[]{a^2} = |a|$ .
+- ## Ejercicios del quiz
+	- Si $$x< 0$$, ¿qué se obtiene al simplificar al máximo la siguiente expresión escribirla solamente con exponentes positivos?
+	- $$-\sqrt{4 x^{14}} = -2 x^{7}$$.
+	- a.$$4 x^{7}$$.
+	- b. $$-4 x^{7}$$.
+	- c. $$4 x^{8}$$.
+	- d. $$2 x^{8}$$.
+	- e. $$-2 x^{8}$$.
+	- f. $$2 x^{7}$$.
+	- g. $$-2 x^{9}$$.
+	- i. $$-2 x^{ 7 }$$.
+	- Al simplificar la expresión $$\sqrt[3]{\left(64x^{6}\right)^{1/2}}$$ se obtiene $$$$2|x|$$$$
+	- Recuerde que si $$n$$ es par, entones $$\sqrt[n]{a^n}=|a|$$.
 -
+- ## Propiedades
+- Sean a, b y c número reales y $n \isin \mathbb N$ si n es par a y b positivos
+	- 1) Si tengo una raíz con varios factores, puedo separarlo en varias raices
+		- $\boxed{\sqrt[n]{ab}=\sqrt[n]{a}\sqrt[n]{b}.}$
+		- Ejemplo:
+		- \(\sqrt[3]{-27\cdot64}=\sqrt[3]{-27}\sqrt[3]{64}=(-3)(4)=-12\).
+	- 2) Si tengo una raíz que su base es una fracción, puedo separar la raíz para el numerador y el denominador
+		- \(\boxed{\sqrt[n]{\dfrac{a}{b}}=\dfrac{\sqrt[n]{a}}{\sqrt[n]{b}},\text{ }b\neq 0.}\)
+		- \(\sqrt{\dfrac{4}{9}}=\dfrac{\sqrt{4}}{\sqrt{9}}=\dfrac{2}{3}\).
+	- 3) Si tengo una raíz de una raíz, se pueden multiplicar los indices
+		- \(\boxed{\sqrt[m]{\sqrt[n]{a}}=\sqrt[mn]{a}.}\)
+		- \(\sqrt[3]{\sqrt{729}}=\sqrt[6]{729}=3\)
+	- 4) Si el indice y el exponente en una raíz son pares entonces el resultado es un abs de la base
+		- \(\boxed{\sqrt[n]{c^{n}}=\left\vert c\right\vert \text{ si }n\text{ es par.}}\)
+		- \(\sqrt[4]{3^{4}}=3\) y \(\sqrt[4]{\left( -5\right) ^{4}}=\left\vert -5\right\vert =5\).
+	- 5) Si tengo una raiz con exponente e indice impar entonces el resultado es solo la raiz
+		- \(\boxed{\sqrt[n]{c^{n}}=c\text{ si }n\text{ es impar.}}\)
+		- \(\sqrt[7]{\left( -2\right) ^{7}}=-2\).
+	- 6) Asociativa en raices
+		- \(\boxed{c\sqrt[n]{b}+d\sqrt[n]{b}=\left( c+d\right) \sqrt[n]{b}.}\)
+		- \(3\sqrt[4]{5}+6\sqrt[4]{5}=9\sqrt[4]{5}\).
+		-
