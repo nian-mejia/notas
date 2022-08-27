@@ -9,7 +9,7 @@
 - ## Suma y resta de polinomios
 - Utilizamos las propiedades de la suma y el producto de números reales
 - Ejemplo: $$(3x^2+7x-9 )+ (-5^3 x ^3- \frac{1}{5}x^2 + x-5) $$
-- ![](https://media.githubusercontent.com/media/nian-mejia/notas/master/assets/image_1661638259802_0.png)
+- ![](https://media.githubusercontent.com/media/nian-mejia/notas/master/assets/image_1661638259802_0.png){:height 337, :width 787}
 - ## Producto o multiplicación de polinomios
 - Utilizamos las propiedades de la suma y el producto de números reales
 - $$\begin{align*} 
