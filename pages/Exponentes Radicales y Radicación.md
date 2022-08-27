@@ -46,4 +46,5 @@
 	- 6) Asociativa en raices
 		- \(\boxed{c\sqrt[n]{b}+d\sqrt[n]{b}=\left( c+d\right) \sqrt[n]{b}.}\)
 		- \(3\sqrt[4]{5}+6\sqrt[4]{5}=9\sqrt[4]{5}\).
-		-
+-
+	-
