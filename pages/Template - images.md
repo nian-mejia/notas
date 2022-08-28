@@ -1,3 +1,2 @@
--
-- ![](https://media.githubusercontent.com/media/nian-mejia/notas/master/assets/)
+- {{{image-l image-name}}}
   template:: image-github
