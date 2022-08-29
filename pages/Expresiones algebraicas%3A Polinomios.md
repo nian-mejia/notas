@@ -22,5 +22,17 @@
   3x^3 - x - 4x 
   \end{align*}
   $$
--
+- ## División de polinimos
+- Si 𝑃(𝑥) y 𝐷(𝑥) son polinomios tales que el grado de 𝑃(𝑥) es mayor o igual que el grado de 𝐷(𝑥) y si 𝐷(𝑥)≠0,
+	- $$\frac{P(x)}{D(x)} = Q(x) + \frac{R(x)}{D(x)} $$
+	  $$D(x) \cdot \frac{P(x)}{D(x)} = Q(x) + \frac{R(x)}{D(x)}  \cdot D(x) $$
+	  $$𝑃(𝑥)=𝐷(𝑥)⋅𝑄(𝑥)+𝑅(𝑥)$$
+- Dividir 5𝑥3−2𝑥+1 entre 𝑥+1
+- Pasos:
+	- 1 ) Se ordenan ambos polinomios en forma descendente con respecto a las potencias de 𝑥x, y si falta alguna potencia se agrega con coeficiente 0. En este caso, sólo falta agregar 0x^2 al dividendo.
+	- Para obtener el primer término del cociente, se divide el primer término del dividendo entre el primer término del divisor. En este caso, $\frac{5𝑥^3}{x}=5x^2$ (éste será el primer término del cociente)
+	- Se multiplica el divisor por el primer término del cociente: $$(x+1)\cdot 5x^2 = 5x^3+5x^2$$ y este resultado se resta del dividendo
+	- El proceso termina cuando el polinomio que se obtiene en el último renglón es de menor grado que el divisor. En este caso, como el divisor es un polinomio de grado 11 y el polinomio del último renglón es de grado 0
+	  id:: 630c1b52-c42d-4b5d-9d4f-277dacb08514
+	- {{{image-l image_1661738156984_0.png}}}
 -

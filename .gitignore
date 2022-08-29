@@ -4,3 +4,4 @@ logseq/.recycle
 metadata.edn
 pages-metadata.edn
 assets/*.edn
+draws/*
