@@ -1,0 +1,3 @@
+- ## Factor común
+	- Es la expresión común que tienen todos los términos de una expresión algebraica
+	- {{{image-l image_1662325342017_0.png}}}
