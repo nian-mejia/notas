@@ -1,1 +1,106 @@
 @import "https://codemirror.net/5/theme/material-ocean.css";
+
+/*
+==================================================
+GLOBAL VARIABLES
+==================================================
+*/
+
+:root {
+    /* Global color palette */
+    --ls-color-clouds: rgb(98, 162, 179);
+    --ls-color-silver: rgba(189,195,199,1);
+    --ls-color-concrete: rgba(149,165,166,1);
+    --ls-color-asbestos: rgba(127,140,141,1);
+    --ls-color-wet-asphalt: rgba(52,73,94,1);
+    --ls-color-midnight-blue: rgba(44,62,80,1);
+    --ls-color-turquoise: rgba(26,188,156,1);
+    --ls-color-greensea: rgba(22,160,133,1);
+    --ls-color-emerland: rgba(46,204,113,1);
+    --ls-color-nephritis: rgba(39,174,96,1);
+    --ls-color-peter-river: rgba(52,152,219,1);
+    --ls-color-belize-hole: rgba(41,128,185,1);
+    --ls-color-amethyst: rgba(155,89,182,1);
+    --ls-color-wisteria: rgba(142,68,173,1);
+    --ls-color-sunflower: rgba(241,196,15,1);
+    --ls-color-orange: rgba(243,156,18,1);
+    --ls-color-carrot: rgba(230,126,34,1);
+    --ls-color-pumpkin: rgba(211,84,0,1);
+    --ls-color-alizarin: rgba(231,76,60,1);
+    --ls-color-pomegranate: rgba(192,57,43,1);
+}
+
+/*
+==================================================
+TAGS
+- Styles all tags
+- Adds colors to some specific tags
+==================================================
+*/
+
+a.tag[data-ref] {
+    align-items: center;
+    background: var(--ls-color-clouds);
+    border-radius: 1rem 0.4rem 0.4rem 1rem;
+    color: var(--ls-primary-background-color);
+    display: inline-flex;
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    line-height: 0.8rem;
+    padding: 0.2rem 0.3rem;
+    text-transform: uppercase;
+    transition: .3s;
+    white-space: nowrap;
+}
+
+
+
+a.tag[data-ref]:hover {
+    filter: grayscale(25%) !important;
+}
+
+
+a.tag[data-ref]:before {
+    background-color: var(--ls-primary-background-color);
+    border-radius: 50%;
+    content: '';
+    display: inline-block;
+    height: 0.6rem;
+    line-height: 0.8rem;
+    margin-right: 0.3rem;
+    width: 0.6rem;
+}
+
+a.tag[data-ref="literature"] {
+    background-color: var(--ls-color-amethyst) !important;
+}
+
+a.tag[data-ref="fleeting"] {
+    background-color: var(--pink) !important;
+}
+
+
+a.tag[data-ref="bibliografia"] {
+    background-color: var(--ls-color-amethyst) !important;
+}
+
+a.tag[data-ref="task"] {
+    background-color: var(--ls-color-orange) !important;
+}
+
+a.tag[data-ref="project"] {
+    background-color: var(--ls-color-carrot) !important;
+}
+
+a.tag[data-ref="programacion"] {
+    background-color: var(--ls-color-pumpkin) !important;
+}
+
+a.tag[data-ref="universidad"] {
+    background-color: var(--ls-color-sunflower) !important;
+}
+
+a.tag[data-ref="extractos"] {
+    background-color: var(--ls-color-turquoise) !important;
+}

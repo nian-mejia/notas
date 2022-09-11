@@ -1,28 +1,28 @@
-- 📄Titulo artículo #Bibliografía
+- 📄Titulo artículo #Bibliografia
   template:: biblio-articulo
 	- autor:: nombre autor
 	  tipo:: [[Artículo]]
 	  url:: link
 	  estado:: [[Sin empezar]] [[En progreso]] [[Finalizado]]
-- 📖Titulo libro #Bibliografía
+- 📖Titulo libro #Bibliografia
   template:: biblio-libro
 	- autor:: nombre autor
 	  tipo:: [[Libro]]
 	  url:: link
 	  estado:: [[Sin empezar]], [[En progreso]], [[Finalizado]]
-- 🎞️Titulo video #Bibliografía
+- 🎞️Titulo video #Bibliografia
   template:: biblio-video
 	- autor:: nombre autor
 	  tipo:: [[Video]]
 	  url:: link
 	  estado:: [[Sin empezar]], [[En progreso]], [[Finalizado]]
-- 🎧Titulo episodio podcast #Bibliografía
+- 🎧Titulo episodio podcast #Bibliografia
   template:: biblio-podcast
 	- autor:: nombre autor
 	  tipo:: [[Podcast]]
 	  url:: link
 	  estado:: [[Sin empezar]], [[En progreso]], [[Finalizado]]
-- 👨‍🏫Titulo del curso #Bibliografía
+- 👨‍🏫Titulo del curso #Bibliografia
   template:: biblio-curso
 	- autor:: nombre autor
 	  plataforma:: nombre plataforma
