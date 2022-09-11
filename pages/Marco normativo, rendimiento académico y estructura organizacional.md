@@ -1,0 +1,23 @@
+- **Créditos académicos:** Es la unidad que mide el tiempo que un estudiante dedica a una asignatura. Un crédito equivale a 48 horas dedicadas en un periodo académico. Un crédito incluye las actividades presenciales o remotas que se dan en las aulas o espacios virtuales con el profesor, además de las actividades con orientación docente realizadas fuera de las aulas (como salidas de campo) y las actividades que el estudiante lleva de manera  autónoma.
+	- **Nivelatorios:**
+	  Son los créditos de las asignaturas de nivelación  de matemáticas básicas, lectoescritura e idioma que debe cursar cada estudiante. Estas asignaturas se establecen con base en sus resultados en el examen de admisión
+	- **Excedentes**:
+		- Son créditos de las asignaturas no obligatorias que el estudiante decide cursar y que sobrepasan el número de créditos exigidos en los componentes de fundamentación o de formación disciplinar
+	- **Creditos adicionales:**
+		- Son los créditos que el estudiante va obteniendo sumando 2 créditos por cada crédito aprobado. El máximo de créditos adicionales es la mitad de los créditos exigidos, hasta máximo 80 créditos.
+	- **Cupo de créditos**:
+		- Es el número de créditos como resultado de sumar los créditos exigidos + adicionales, restados de los créditos cursado, cancelados o inscritos. Este resultado debe ser mayor o igual al número de créditos que aún le falta por aprobar ==para que no se pierda la calidad de estudiante por cupo de créditos==
+		- $$\text{créditos exigidos + adicionales - (créditos cursado +  cancelados +inscritos)}$$
+	- **Créditos disponibles:**
+		- $$\text{cupo de créditos - créditos pendientes}$$
+- **P.A.P.A**
+	- Los créditos son la base para calcular el Promedio Aritmético Ponderado Acumulado (P.A.P.A.), ==el cual debe estar por encima de 3,0 para mantener la calidad de estudiante en pregrado== y se calcula con los pasos descritos a continuación:
+		- 1. Se multiplica la nota final de cada materia por el número de créditos de la misma.
+		- 2. Se hace la suma total de todos los resultados obtenidos en el punto anterior.
+		- 3. Se divide la suma total obtenida entre el total de créditos cursados.
+	- Nota: para el cálculo del P.A.P.A. se tienen en cuenta todas las asignaturas cursadas con calificación numérica ==(tanto las aprobadas como las no aprobadas).==
+- **P.A ó promedio académico**
+	- El P.A se usa para la expedición de certificados de los egresados. Importante: El P.A.P.A siempre será inferior o igual al P.A. Y el P.A solo tiene en cuenta la última calificación que obtuviste en la materia si anteriormente la cursaste, mientras que el P.A.P.A tiene en cuenta también las veces que la perdiste.
+- **P.A.P.I**
+	- Es muy importante a tener en cuenta ya que determina en gran medida cómo es el ordenamiento para la inscripción de asignaturas... Tiene en cuenta las notas de las ==materias cursadas y también las materias canceladas==.
+-
