@@ -20,4 +20,17 @@
 	- El P.A se usa para la expedición de certificados de los egresados. Importante: El P.A.P.A siempre será inferior o igual al P.A. Y el P.A solo tiene en cuenta la última calificación que obtuviste en la materia si anteriormente la cursaste, mientras que el P.A.P.A tiene en cuenta también las veces que la perdiste.
 - **P.A.P.I**
 	- Es muy importante a tener en cuenta ya que determina en gran medida cómo es el ordenamiento para la inscripción de asignaturas... Tiene en cuenta las notas de las ==materias cursadas y también las materias canceladas==.
--
+- ## Perder la calidad de estudiante
+	- [Artículo 44 del acuerdo 008 del 2008](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=34983)
+	- Culminar exitosamente los planes de estudio
+	- No cumplir con los requisitos exigidos para la renovación de la matrícula.
+	- Presentar un P.A.P.A menor que tres punto cero.
+	- No disponer de un cupo de créditos suficientes para inscribir las asignaturas pendientes de aprobación
+	- Recibir una sanción disciplinaria de expulsión o suspensión.
+- ## Reingreso
+	- En toda la carrera, un estudiante tiene derecho a un solo reintegro y para realizar la solicitud es necesario tener un PAPA igual o superior a 2.7 y no haber pasado más de 3 años desde que perdió la calidad de estudiante.
+- ## Tipos de asignaturas
+	- **Disciplinar o profesional:**
+		- Este componente suministra al estudiante la gramática básica de su profesión o disciplina, las teorías, métodos y prácticas fundamentales, cuyo ejercicio formativo, investigativo y de extensión le permitirá  integrarse con una comunidad profesional o disciplinar determinada.
+	- **Libre elección**
+		- Este componente permite al estudiante aproximarse, contextualizar y/o profundizar temas de su profesión o disciplina y apropiar herramientas y conocimientos de distintos saberes tendientes a la diversificación, flexibilidad e interdisciplinariedad.
