@@ -33,6 +33,7 @@ template:: extrac-extrac
 	- tipo:: [[Índice]]
 	  etiquetas:: numeral etiqueta
 	- **Bibliografia**: Enlace por bloque
+	  id:: 6324d801-0b5f-4cb7-8f22-4bf418034800
 - Contexto del codigo #Extracto
   template:: extrac-code
 	- ```bash
