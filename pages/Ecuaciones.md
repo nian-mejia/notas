@@ -26,3 +26,17 @@
 - $$x^{2}+bx=-c\iff x^{2}+bx+\left( \dfrac{b}{2}\right) ^{2}=-c+\left( \dfrac{b}{2}\right) ^{2}$$
 - Si el lado derecho es una cantidad negativa, ==la ecuación no tiene solución==. ¿Por qué?
 - ![image.png](../assets/image_1663692633794_0.png)
+- Cuando el coeficiente de $x^2$ es diferente a 1, se saca factor común
+- $$ax^{2}+bx+c=a\left( x^{2}+\frac{b}{a}x\right) +c$$
+- Es importante tener en cuenta que al sumar una cantidad al interior del paréntesis, al otro lado debe sumarse la misma expresión multiplicada por el coeficiente de 𝑥2x2.
+- $$3x^{2}-6x-1=0\Longleftrightarrow3x^{2}-6x=1\Longleftrightarrow 3\left( x^{2}-2x\right) =1\Longleftrightarrow3\left( x^{2}-2x+1\right) =1+(1)(3)
+  $$
+- ## Formula cuadrática
+- $$
+  x=\dfrac{-b\pm\sqrt{b^{2}-4ac}}{2a}.
+  $$
+- ==Discriminante==
+- Se llama discriminante de la ecuación 𝑎𝑥2+𝑏𝑥+𝑐=0, y se denota 𝐷, a la expresión $𝑏^2−4𝑎𝑐$. Con base en la fórmula cuadrática, las siguientes proposiciones son verdaderas:
+- Si 𝐷>0 la ecuación tiene dos soluciones reales distintas.
+- Si 𝐷=0 la ecuación tiene una solución real de multiplicidad 2.
+- Si 𝐷<0 la ecuación no tiene soluciones reales (las soluciones son números complejos).
