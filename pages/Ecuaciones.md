@@ -40,3 +40,20 @@
 - Si 𝐷>0 la ecuación tiene dos soluciones reales distintas.
 - Si 𝐷=0 la ecuación tiene una solución real de multiplicidad 2.
 - Si 𝐷<0 la ecuación no tiene soluciones reales (las soluciones son números complejos).
+- ## Otros tipos de ecuaciones
+### 1.3.1. Ecuaciones en las que la variable o variables hacen parte del denominador de expresiones fraccionarias
+- $$
+  \dfrac{10}{x}-\dfrac{12}{x-3}+4=0\iff\dfrac{10\left( x-3\right) -12x+4x(x-3)}{x\left( x-3\right) }=0
+  $$
+### 1.3.2. Ecuaciones en las que la variable o variables son parte de cantidades subradicales
+	- Si en la ecuación sólo aparece un radical, la escribimos de tal forma que a un lado de la igualdad sólo aparezca el radical, luego elevamos ambos lados de la ecuación a la menor potencia que elimine el radical. Con este procedimiento la ecuación resultante puede tener raices que no lo sean de la ecuación original, por lo que debemos determinar cuáles de las raices de la ecuación resultante son raices de la ecuación original.
+	- $$(\sqrt{5-x})^{2}=\left( x-3\right)^{2}\iff5-x=x^{2}-6x+9$$
+	- Notas:
+		- Si en la ecuación aparece más de un radical con variables en su interior, se escribe uno de éstos a un lado y los demás al otro lado de la igualdad, y se realizan las operaciones descritas anteriormente. El procedimiento se repite hasta que desaparezcan todos los radicales.
+		- En las ecuaciones que involucran radicales **siempre** se deben chequear las soluciones obtenidas en la ecuación original, para determinar si son o no soluciones de ésta.
+- ## 1.3.3. Ecuaciones de la forma $𝑎𝑥^{2𝑛} + 𝑏𝑥^𝑛+𝑐=0$
+- Estas ecuaciones se pueden transformar en ecuaciones cuadráticas utilizando otra variable en reemplazo de 𝑥^𝑛. Si 𝑦=𝑥^𝑛, la ecuación original se escribe como 𝑎𝑦^2+𝑏𝑦+𝑐=0, que es una ecuación cuadrática en la variable 𝑦, la cual sabemos resolver. Conociendo los valores de 𝑦 que satisfacen esta nueva ecuación, los reemplazamos en 𝑦=𝑥𝑛, y hallamos los correspondientes valores de 𝑥 que sean soluciones de la ecuación original. El procedimiento anteriormente descrito se llama solución de ecuaciones usando cambio de variable.
+- ![image.png](../assets/image_1663810876613_0.png)
+-
+### 1.3.5. Ecuaciones con valor absoluto
+- $$\left\vert 3x+5\right\vert =1\iff3x+5=1\quad\text{ ó }\quad-(3x+5)=1$$

@@ -1,0 +1,31 @@
+- ## Plano cartesiano
+	- ![image.png](../assets/image_1664035835434_0.png)
+	- A cada punto 𝑃 del plano le corresponde una pareja de números reales (𝑎,𝑏), donde 𝑎 es el punto de corte sobre el 𝑒𝑗𝑒 𝑥 de la recta perpendicular a este eje, que pasa por el punto (𝑎,𝑏), y 𝑏 es el punto sobre el 𝑒𝑗𝑒 𝑦 del corte de la perpendicular a este eje, que pasa por (𝑎,𝑏). Los números 𝑎 y 𝑏 se llaman componentes o coordenadas de (𝑎,𝑏) en 𝑥 y en 𝑦 respectivamente.
+- ## Línea recta en el plano cartesiano
+- Sabemos que en el plano una lı́nea recta está completamente determinada por dos puntos distintos.
+- ==Formula de la pendiente==
+- $$m=\dfrac{y_{2}-y_{1}}{x_{2}-x_{1}}.$$
+- La pendiente es la ==razón entre el desplazamiento vertical y el desplazamiento horizontal==, cuando pasamos de un punto a otro sobre la recta:
+- $$
+  m=\frac{\text{desplazamiento vertical}}{\text{desplazamiento horizontal}}.
+  $$
+- ## Ecuación punto pendiente
+- $$y-y_{1}=\dfrac{y_{2}-y_{1}}{x_{2}-x_{1}}(x-x_{1}),$$
+- La constante 𝑏 es la coordenada del punto donde la recta intercepta al 𝑒𝑗𝑒 𝑦, que corresponde al punto de la recta para el cual 𝑥 es 0.
+- ## Ecuación de la recta
+- $$y-y{_1} = m (x - x{_1})$$
+- ## Ecuación pendiente-intercepto
+- Usualmente, lo anterior se simplifica diciendo que ==𝑦=𝑚𝑥+𝑏== es una ecuación de una lı́nea recta con pendiente 𝑚, que intercepta al 𝑒𝑗𝑒 𝑦 en el punto (0,𝑏). Esta ecuación se conoce con el nombre de ecuación de la recta en la forma pendiente-intercepto.
+- b se obtiene reemplazando un punto en esta ecuación.
+- ## Forma general de la ecuación de la recta en el plano
+	- $$ax + by +c = 0 | a \neq 0 \text{ y } b  \neq 0$$
+		- Si se despeja la y podemos encontrar la ecuación pendiente-intercepto
+-
+- ## Lineas paralelas y prependiculares
+- Decimos que 𝐿1 y 𝐿2 son paralelas y escribimos 𝐿1∥𝐿2, si tienen el mismo ángulo de inclinación, o, equivalentemente, si tienen la misma pendiente
+- $L_{1}\parallel L_{2}\quad$ si solo si $m{_1} =  m{_2}$
+- Decimos que 𝐿1 y 𝐿2 son perpendiculares, y escribimos 𝐿1 ⊥ 𝐿2 , si se cortan formando cuatro ángulos rectos, o equivalentemente, si el producto de sus pendientes es igual a −1.
+- $L_{1}\perp L_{2}\quad$ si solo si $m{_1}\cdot m{_2} = -1$
+- ## Formula del punto medio
+- $$M=\left( \frac{x_{1}+x_{2}}{2}+\frac{y_{1}+y_{2}}{2}\right)$$
+- La primera parte corresponde a la parte al centro (x , y)

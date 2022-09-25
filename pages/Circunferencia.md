@@ -1,0 +1,11 @@
+- ## Distancia
+- La distancia entre dos puntos 𝑃=(𝑥1,𝑦1) y 𝑄=(𝑥2,𝑦2), denotada 𝑑(𝑃,𝑄), es la longitud del segmento de recta que los une, y está dada por:
+- $$d(P,Q)=\sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}}.$$
+- ## Ecuación de la circunferencia
+- Recordemos que una circunferencia es una lı́nea cerrada formada por todos los puntos del plano que equidistan de un punto fijo llamado centro. A la distancia fija la llamamos radio de la circunferencia, y la denotamos por 𝑟.
+- Se dice que un punto es equidistante de un conjunto de figuras geométricas si las distancias entre ese punto y cada figura del conjunto son iguales
+- $$d(X,C)=r$$
+- Para encontrar un centro desde una expresión algebraica
+	- Debemos expresar la ecuación dada en la forma $(𝑥−ℎ)^2+(𝑦−𝑘)^2=𝑟^2$. Para tal fin, agruparemos los términos que contienen 𝑥 por un lado, y los que tienen 𝑦 por otro. Luego completaremos el cuadrado en cada uno de dichos grupos, teniendo siempre presente sumar en el lado derecho de la ecuación, las constantes utilizadas con el fin de no alterar la ecuación.
+	- ![image.png](../assets/image_1664070797025_0.png)
+	- Luego, la ecuación representa una circunferencia de centro en (−1/4,−1) y radio 1.
