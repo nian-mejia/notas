@@ -1,0 +1,21 @@
+- Una función es como una máquina donde entra un elemento x y sale un elemento y
+- Se puede representar con
+- $$y = f(x)$$
+- Es una regla donde a cada elemento de un conjunto A, se le asigna un conjunto B
+- **Formas de representar una función:**
+	- Verbalmente
+	- Numéricamente
+	- Visualmente
+	- Algebraica
+- ### Tipos de datos
+	- ![image.png](../assets/image_1664358745218_0.png){:height 260, :width 507}
+- ### Dominio y Rango
+- El **dominio** son todos los posibles ==valores de entrada de una función==
+- Y el **rango** es el conjunto de todos los números que puede llegar a tener ==la salida de la función==
+- ## ¿Cómo leer símbolos matemáticas?
+	- [Símbolos matemáticos](https://laboratoriomatematicas.uniandes.edu.co/semarquitec/simbolosmat.htm)
+	- Aproximadamente igual $$\approx$$
+	- Mucho mucho mayor $$\gg$$
+	- Sigma $$\Sigma$$
+	- Productorio $$\prod$$
+-

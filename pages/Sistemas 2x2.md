@@ -1,0 +1,24 @@
+- $$\left\{ \begin{array}{c} a_{1}x+b_{1}y=c_{1} \\ a_{2}x+b_{2}y+c_{2} \end{array} \right. (1)$$
+- Para dichas rectas 𝐿1 y 𝐿2 se da una y sólo una de las tres posibilidades siguientes:
+- 𝐿1 y 𝐿2 se cortan en un único punto.
+- 𝐿1 y 𝐿2 son paralelas y 𝐿1≠𝐿2.
+- 𝐿1= 𝐿2.
+- De lo anterior podemos afirmar que si 𝑎1≠0 ó 𝑏1≠0 y 𝑎2≠0 ó 𝑏2≠0, para el sistema de ecuaciones lineales (1) se da uno y sólo uno de los siguientes casos:
+	- El sistema tiene solución única, y es el punto de intersección de las rectas 𝐿1 y 𝐿2.
+	- El sistema no tiene solución.
+	- El sistema tiene infinitas soluciones, siendo su conjunto solución una lı́nea recta. Cualquiera de las dos ecuaciones del sistema es una ecuación para dicha recta.
+- ## Método de sustitución
+- Los pasos a seguir en este procedimiento son:
+	- Seleccionar una ecuación y “despejar” una de las variables.
+	- Sustituir la expresión hallada en el paso 1 en la otra ecuación, para obtener una ecuación en una variable. Luego, resolver esta nueva ecuación para hallar el valor de esa variable.
+	- Sustituir el valor encontrado en el paso 2 en la expresión hallada en el paso 1, para determinar el valor de la variable faltante, y en consecuencia, la solución del sistema.
+- ![image.png](../assets/image_1664189687523_0.png)
+- ## Métodos de eliminación
+- Consiste en multiplicar una o las dos ecuaciones del sistema por constantes apropiadas de tal manera que al sumar ambas ecuaciones se elimine unas de las variables del sistema. El procedimiento a seguir es:
+	- Multiplicar una o las dos ecuaciones del sistema por las constantes adecuadas de tal manera que al sumar los coeficientes de una de las variables el resultado sea 0.
+	- Sumar miembro a miembro ambas ecuaciones para eliminar una variable. Luego, resolver la ecuación resultante para determinar el valor de la variable restante.
+	- Sustituir el valor hallado en el paso 2 en una de las ecuaciones originales y resolverla para determinar el valor de la variable eliminada en el paso 2 y obtener ası́ la solución del sistema.
+- ![image.png](../assets/image_1664189856777_0.png)
+- ## Casos especiales
+- Si las pendientes son iguales y solo cambia el valor constante, las rectas son paralelas y por lo tanto no hay solución
+- Otro caso especial es que ambas rectas sean iguales y se ve en que una ecuación es resultado de multiplicarla por X.
