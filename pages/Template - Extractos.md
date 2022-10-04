@@ -18,7 +18,7 @@ template:: extrac-extrac
 - Escriba aquí lo que quiera anotar sobre el tema #Extractos
   template:: extrac-anota
 	-
-	- tipo:: [[Anotaciones]]
+	- tipo:: [[Anotaciones]] 
 	  posición:: pagina o minuto
 	  etiquetas:: numeral etiqueta
 	- **Bibliografia**: Enlace por bloque
