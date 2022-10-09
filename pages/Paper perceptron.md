@@ -1,0 +1,15 @@
+- [Python Machine Learning - Vahid Mirjalili.epub](../assets/Python_Machine_Learning_-_Vahid_Mirjalili_1664928104799_0.epub)
+- ![the-perceptron_ca283e9f-bd76-4564-9309-0a50877d4c35.pdf](../assets/the-perceptron_ca283e9f-bd76-4564-9309-0a50877d4c35_1664925607469_0.pdf)
+- McCullock y Pitts describieron una célula nerviosa como una ==simple puerta lógica con salidas binarias==; múltiples señales llegan a las dendritas, a continuación se integran en el cuerpo de la célula y, si la señal acumulada supera un umbral determinado, se genera una señal de salida que será transmitida por el axón. (A Logical Calculus of the Ideas Immanent in Nervous Activity [Un cálculo lógico de las ideas inmanentes en la actividad nerviosa] 1943)
+- La idea general que hay detrás de la neurona MCP y del modelo de perceptrón umbralizado de Rosenblatt es utilizar un enfoque reduccionista para imitar cómo trabaja una simple neurona en el cerebro: si se excita o si no.
+- ## ¿Qué es el bias?
+- ![image.png](../assets/image_1665328696997_0.png)
+- ## Pasos en para actualizar los pesos
+	- Iniciar los pesos a 0 o a números aleatorios más pequeños.
+	- Para cada muestra del entrenamiento
+		- Calcular el valor de salida
+		- Actualizar los pesos
+	- La regla de aprendizaje del perceptron
+		- ![image.png](../assets/image_1665329645325_0.png)
+- donde n es el rango de aprendizaje (normalmente una constante entre 0.0 y 1.0), $y^{(i)}$ es la etiqueta de clase verdadera de la muestra de entrenamiento i, y  $y´^{(i)}$ es la etiqueta de clase predicha. Es importante observar que todos los pesos en el vector peso han sido actualizados simultáneamente, lo que significa que no podemos volver a calcular el ![](../Images/B07030_02_38.jpg) antes de que todos los pesos ![](../Images/B07030_02_34.jpg) estén actualizados.
+- ![image.png](../assets/image_1665330030784_0.png)
