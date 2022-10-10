@@ -13,3 +13,23 @@
 		- ![image.png](../assets/image_1665329645325_0.png)
 - donde n es el rango de aprendizaje (normalmente una constante entre 0.0 y 1.0), $y^{(i)}$ es la etiqueta de clase verdadera de la muestra de entrenamiento i, y  $y´^{(i)}$ es la etiqueta de clase predicha. Es importante observar que todos los pesos en el vector peso han sido actualizados simultáneamente, lo que significa que no podemos volver a calcular el ![](../Images/B07030_02_38.jpg) antes de que todos los pesos ![](../Images/B07030_02_34.jpg) estén actualizados.
 - ![image.png](../assets/image_1665330030784_0.png)
+- ## Funciones de activación
+	- Aproximadores de funciones, permite acercase mejor a la forma de los datos
+	- **Escalon:**
+		- ![image.png](../assets/image_1665333304251_0.png){:height 279, :width 451}
+		- Problema, para ver si la neurona esta decidiendo bien, se toma la deverivada (que en otras palabras es como la inclinación), para el punto cero, la derivada no existe y los puntos que en y son uno, no hay inclinación asi que la derivada es cero.
+	- ## Función sigmoide o logistica
+		- ![image.png](../assets/image_1665333576594_0.png){:height 235, :width 436}
+		- La derivada se vuelve un valor muy pequeño, por lo que se dice que la neurona va a prender muy lento
+		- Se usa para clasificación binaria
+		- Tiene el problema de desvanecimiento del gradiente, que en otras palabras es que a la final de la curva se va volviendo plana.
+	- ## Tangente hiperbolica
+	- ![image.png](../assets/image_1665333809064_0.png)
+		- Su derivada es mucho más grande y puede tener valores tanto positivos como negativos, lo que permite que la neurona aprenda mucho más rápido.
+		- Es muy pesada ya que se formula tiene exponenciales
+	- ## Relu
+		- 6X más rápida que la tangente hiperbolica
+		- ![image.png](../assets/image_1665334113603_0.png){:height 416, :width 580}
+		- $$max(0, x)$$
+		- Problemas: Puede generar las neuronas muerta
+- TODO [(81) REGRESIÓN LINEAL SIMPLE - TEORÍA | #13 Curso Machine Learning con Python - YouTube](https://www.youtube.com/watch?v=5TcA5M5z4sA)
