@@ -1,0 +1,23 @@
+- Si la distribución tiene cola en cualquiera de los dos lados, será asimétrica, siendo asimétrica negativa (sesgo negativo) si la cola está al lado izquierdo y si la cola está al lado derecho será asimétrica positiva (sesgo positivo).==Cuando una distribución es sesgada, la medida de centralización más importante es la mediana==
+- ## Coeficiente de pearson:
+	- $$A = \frac{\bar{x } - Mo }{\sigma}$$
+	- En una distribución simétrica, el valor de C.A. es cero (C.A. = As = 0) y en general su valor se encuentra entre -3 y +3.
+	- Si la asimetría es positiva, se cumple que 0 < CA ≤ +3, o sea, As > 0.
+	- Si la asimetría es negativa, se cumple que -3 ≤ CA < 0, o sea, As < 0.
+	- ![image.png](../assets/image_1666485941240_0.png)
+	- {{video https://www.youtube.com/watch?v=GO8cWg_D4J8}}
+- ### Índice basado en los tres cuartiles
+	- [(118) Asimetría: Coeficiente de Bowley - YouTube](https://www.youtube.com/watch?v=qB7Od76ZAhU)
+	- $$\text{ A = }\frac{(Q3 - Q2 ) - (Q2 - Q1)}{(Q3-Q1)}$$
+	- El número obtenido, As, toma valores entre -1 y +1, es decir, -1 ≤ As ≤ +1.
+	- Si el valor es positivo, la distribución es asimétrica positiva y si es negativo, asimétrica negativa
+- ## Curtosis o apuntamiento
+	- La curtosis es una medida de altura de la curva
+	- ![image.png](../assets/image_1666486564865_0.png)
+- ### Coficiente de Fisher
+	- $$K = \frac{m_{4}}{\sigma^4}$$
+	- donde m4 se denomina momento empírico de cuarto orden
+	- $$\frac{\sum_{i=1}^m fi (x - \bar{x})^4}{n}$$
+	- Si K = 3, la distribución es normal o mesocúrtica.
+	- Si K > 3, la distribución es apuntada o leptocúrtica.
+	- Si K < 3, la distribución es achatada o platicúrtica

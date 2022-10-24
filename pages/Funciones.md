@@ -16,6 +16,6 @@
 	- [Símbolos matemáticos](https://laboratoriomatematicas.uniandes.edu.co/semarquitec/simbolosmat.htm)
 	- Aproximadamente igual $$\approx$$
 	- Mucho mucho mayor $$\gg$$
-	- Sigma $$\Sigma$$
+	- Sigma $$\sum$$
 	- Productorio $$\prod$$
 -
