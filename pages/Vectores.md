@@ -1,0 +1,12 @@
+- ### ¿Qué es un vector?
+	- Físico:
+		- Flechas en el espacio, con longitud y dirección
+	- Pensarlo como una fecha, que parte del origen de coordenadas
+	- ![image.png](../assets/image_1668117044435_0.png){:height 405, :width 410}
+	- Cuando se escribe en [x, y] se refiere a un vector y cuando es con () es un punto.
+- ### Suma de vectores
+	- Consiste en sumar todo termino a termino
+- ### Producto de vectores
+	- Si el número es positivo crece x veces
+	- Si el número es negativo cambia su dirección y se contrae x veces
+	- Las x se suelen llamar ==escalares==

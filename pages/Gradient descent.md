@@ -1,0 +1,4 @@
+- El ==learning rate== ó alpha representa que tan grande va a ser la actualización de los valores
+- Para actualizar los pesos de w, b. Se debe hacer de forma ==simultanea==
+- Si el learning rate es demasiado grande, los pasos que dan nunca llegaran al minimo
+- [Optional lab: Gradient descent | Coursera](https://www.coursera.org/learn/machine-learning/ungradedLab/lE1al/optional-lab-gradient-descent)
