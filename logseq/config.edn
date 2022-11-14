@@ -247,7 +247,7 @@
 
  ;; Extra CodeMirror options
  :editor/extra-codemirror-options {:theme "material-ocean" }
- :feature/enable-flashcards? false
+ :feature/enable-flashcards? true
 
  ;; ignore #+keyword: for parsing page references in orgmode
  ;; :ignored-page-references-keywords #{"author" "startup"}
