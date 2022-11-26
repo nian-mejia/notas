@@ -72,7 +72,7 @@ a.tag[data-ref]:before {
     width: 0.6rem;
 }
 
-a.tag[data-ref="literature"] {
+a.tag[data-ref="card"] {
     background-color: var(--ls-color-amethyst) !important;
 }
 
